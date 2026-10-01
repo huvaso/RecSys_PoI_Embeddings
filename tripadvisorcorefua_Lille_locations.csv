@@ -1,0 +1,2532 @@
+id;nom;latitude;longitude;typeR;hotelType;restaurantType;activiteType
+196912;Mercure Lille Centre Grand Place;50.63817;3.065553;H;hotel;;
+196913;Mercure Lille Roubaix Grand Hotel;50.69226;3.172287;H;hotel;;
+196916;Ibis Lille Centre Gares;50.63469;3.070875;H;hotel;;
+196917;Ibis Styles Lille Centre Gare Beffroi;50.63252;3.067851;H;hotel;;
+196918;Ibis Styles Lille Centre Grand Place;50.6376;3.06683;H;hotel;;
+196920;Ibis Lille Centre Grand Place;50.638317;3.06293;H;hotel;;
+196928;"Hôtel Ibis Villeneuve-d'Ascq Grand Stade";50.62131;3.133724;H;hotel;;
+196931;Hôtel Ibis Lille Roubaix Centre Grand-Place;50.690178;3.177049;H;hotel;;
+198290;Holiday Inn Express Lille Centre;50.630684;3.058223;H;hotel;;
+209260;Westfield Euralille;50.637753;3.072719;A;;;attraction
+209264;Carrefour;50.64192;3.08501;A;;;attraction
+228732;La Howarderie Hotel;50.64665;3.05448;H;hotel;;
+229545;Comfort Hotel Garden Lille Tourcoing;50.722427;3.129788;H;hotel;;
+229763;AS Hotel Ronchin;50.60412;3.09905;H;hotel;;
+232402;Carlton Hotel;50.63685;3.065155;H;hotel;;
+234890;Kyriad Direct Lille Est - Stade Pierre Mauroy;50.61646;3.134818;H;hotel;;
+234891;Novotel Lille Aéroport;50.583996;3.088999;H;hotel;;
+236894;"Hôtel du Moulin d'Or";50.635265;3.069951;H;hotel;;
+236895;Hotel des Voyageurs;50.63635;3.06907;H;hotel;;
+236897;Hotel Faidherbe;50.635906;3.069976;H;hotel;;
+236898;Lille City Hotel;50.6338;3.063731;H;hotel;;
+236899;Hotel de France;50.63496;3.06411;H;hotel;;
+236902;Hôtel Saint Maurice;50.635696;3.067946;H;hotel;;
+236903;Central Hotel;50.63282;3.0562;H;hotel;;
+236906;Hotel Calm;50.635525;3.069954;H;hotel;;
+237923;"A l'Arrivée de Leers";50.69087;3.19872;H;;;
+237924;Premiere Classe Lille Nord - Tourcoing;50.70667;3.160564;H;hotel;;
+237925;Hotel Morphee;50.642227;3.145332;H;hotel;;
+238900;Climat de France Lille Centre;50.6358;3.08293;H;hotel;;
+238905;Hôtel La Valiz;50.636997;3.069548;H;hotel;;
+238906;Hotel de la Paix;50.63617;3.065797;H;hotel;;
+238910;Premiere Classe Lille Centre;50.6373;3.06855;H;hotel;;
+241457;Balade Nocturne;50.63509;3.0616;A;;;attraction
+241458;Grand Bleu;50.63497;3.0349;A;;;attraction
+241459;14h38, un Dimanche;50.63679;3.06226;A;;;
+241460;Chez Paul;50.63658;3.06556;A;;;attraction
+241461;Clé Astrale;50.62589;3.05639;A;;;attraction
+241462;Du Pareil au Même;50.6352;3.06714;A;;;attraction
+241463;Éric Bompard;50.63711;3.06398;A;;;attraction
+241464;Librairie Godon;50.63936;3.06165;A;;;
+241465;Harmonie Nature;50.63455;3.03366;A;;;attraction
+241468;Institut Michèle;50.63466;3.07248;A;;;
+241469;Jardin de la Beauté;50.63376;3.0578;A;;;
+241470;Aux Gourmets;50.63712;3.0127;A;;;
+241472;Barbe;50.6352;3.06714;A;;;
+247498;"LaM Lille Métropole Musée d'Art Moderne, d'Art Contemporain et d'Art Brut.";50.637512;3.150333;A;;;attraction
+249242;Novotel Lille Lomme;50.61617;3.06553;H;hotel;;
+251421;Ibis Styles Lille Aeroport;50.580463;3.091446;H;hotel;;
+253213;Hôtel de la Treille;50.640553;3.064187;H;hotel;;
+261290;Altia Hotel;50.76199;3.156109;H;hotel;;
+262893;Hôtel Mercure Lille Aéroport;50.583675;3.093501;H;hotel;;
+269814;Grande Place;50.63697;3.06367;A;;;attraction
+269817;Vieille Bourse;50.63773;3.0642;A;;;attraction
+269820;Palais des Beaux-Arts de Lille;50.630672;3.062632;A;;;attraction
+275111;Crowne Plaza Lille;50.639805;3.07572;H;hotel;;
+277055;Mercure Lille Centre Vieux Lille;50.641758;3.066637;H;hotel;;
+280115;Kyriad Lille Gare - Grand Palais;50.635456;3.082795;H;hotel;;
+281538;Ibis Lille Tourcoing Centre;50.720436;3.161207;H;hotel;;
+281545;Villages Hotel Lille Wasquehal;50.63371;3.00723;H;;;
+287198;Kyriad Direct Lille Nord - Roubaix;50.693584;3.172799;H;hotel;;
+287200;"Campanile Lille Est - Villeneuve D'Ascq";50.6374;3.14605;H;hotel;;
+287285;Comfort Hotel Lille-Mons en Baroeul;50.65009;3.108339;H;hotel;;
+298379;Hotel Le Coq Hardi;50.6359;3.06981;H;hotel;;
+300759;Ibis Budget Lille Centre;50.64224;3.067874;H;hotel;;
+310382;Hôtel Chagnot;50.63619;3.069231;H;hotel;;
+312933;Best Hotel Lille/Gambetta;50.626434;3.051944;H;hotel;;
+314010;Hotel Continental;50.63696;3.069466;H;hotel;;
+483120;"Olivarius Apart'Hotel";50.607574;3.152472;H;hotel;;
+483209;Adagio Access Lille Vauban;50.63251;3.049114;H;hotel;;
+488202;Campanile Lille Nord - Wasquehal;50.682224;3.114994;H;hotel;;
+488209;Kyriad Lille Nord - Roncq;50.753624;3.138122;H;hotel;;
+488210;Hôtel Restaurant Kyriad Lille Est-Hem;50.644485;3.19469;H;hotel;;
+488211;Campanile Lille Sud - Seclin;50.547348;3.055332;H;hotel;;
+488213;Campanile Lille Ouest - Lomme;50.65378;2.983352;H;hotel;;
+488886;Premiere Classe Lille Est - Stade Pierre Mauroy;50.613174;3.122037;H;hotel;;
+507467;hotelF1 Lille Roubaix centre;50.69484;3.18299;H;hotel;;
+507493;Ibis Budget Lille Lesquin Aéroport;50.580658;3.089635;H;guest_house;;
+507547;"HotelF1 Lille Villeneuve d'Ascq";50.642506;3.143381;H;hotel;;
+563013;Hôtel-Restaurant des Acacias Lille Tourcoing;50.758606;3.148472;H;hotel;;
+563022;Lys Hotel;50.780468;3.125246;H;hotel;;
+584521;Le Domaine des Cigognes Hotel;50.53697;3.103569;H;hotel;;
+595767;Le Compostelle;50.6375;3.061667;H;hotel;;
+605835;Grand Hôtel Lille;50.637047;3.067897;H;hotel;;
+625433;Sejours & Affaires Lille - Europe;50.636566;3.074911;H;hotel;;
+626951;Auberge du Forgeron;50.54895;3.028929;H;hotel;;
+628635;Novotel Suites Lille Europe hotel;50.638893;3.076883;H;hotel;;
+630226;"Appart'City Confort Lille Grand Palais";50.62911;3.081209;H;hotel;;
+644584;Hotel Première Classe Lille Nord;50.75337;3.13734;H;hotel;;
+644585;Premiere Classe Lille Sud - Seclin;50.54807;3.049;H;hotel;;
+644821;Premiere Classe Lille Ouest-Lomme;50.65349;2.9827;H;hotel;;
+676481;Ibis budget Lille Marcq-en-Baroeul;50.67563;3.117801;H;hotel;;
+734546;Place Rihour;50.635643;3.062659;A;;;attraction
+781110;"L'assiette du marche";50.64108;3.061831;R;;10591;
+781881;"Le Square d'Aramis";50.638676;3.060027;R;;10591;
+783726;Le Pinocchio;50.6383;3.068526;R;;10591;
+789281;Wasabi;50.63917;3.0585;R;;10591;
+793340;supermarket;50.6266;3.04805;R;;10591;
+793722;La Chicoree;50.63596;3.063038;R;;10591;
+794954;Le Lion Bossu;50.640358;3.065168;R;;10591;
+794968;MEET PEOPLE;50.641792;3.065786;R;;10591;
+795212;"Flam's";50.63721;3.061645;R;;10591;
+795570;"L'orange Bleue";50.63866;3.062654;R;;10591;
+797594;Boulangerie Brassart;50.65136;3.08959;R;;9901;
+797600;Pousse de Bamboo;50.6352;3.06714;R;;10591;
+801094;Estaminet Chez la vieille;50.64283;3.066893;R;;10591;
+801316;"Brins d'Epices";50.63439;3.06807;R;;10591;
+801700;"Le Rihour's";50.635845;3.063239;R;;10591;
+802540;Le Palais du Kashmir;50.63187;3.05337;R;;10591;
+803272;Milano;50.64137;3.065274;R;;10591;
+803286;Tiger Wok;50.6343;3.065892;R;;10591;
+803350;AUX PLAISIRS DES VIGNES;50.6309;3.0552;R;;10591;
+804573;"Le Val d'Auge";50.70013;3.094381;R;;10591;
+805058;Akira;50.6326;3.063431;R;;10591;
+808034;Flandres Liban;50.62373;3.05452;R;;10591;
+808452;La Petite Table;50.6412;3.062353;R;;10591;
+808483;Salsa Posada;50.643105;3.059527;R;;10591;
+809964;Le Chantecler;50.6296;3.061317;R;;10591;
+810761;Jomon;50.6411;3.065597;R;;10591;
+810939;La Fossetta;50.634735;3.063161;R;;10591;
+812062;Le compostelle;50.637352;3.061673;R;;10591;
+813222;La part des Anges;50.641483;3.062089;R;;10591;
+814250;le chat qui fume;50.629444;3.055086;R;;10591;
+814600;le piccolo mondo;50.634563;3.063311;R;;10591;
+850192;Omnia;50.63716;3.061944;R;;10591;
+877516;"le T'Rijsel";50.642075;3.065999;R;;10591;
+877560;Le come Back;50.63548;3.0169;R;;10591;
+886842;Le Park;50.626324;3.068442;R;;10591;
+909317;La connivence;50.64194;3.065977;R;;10591;
+919541;Sakura;50.63808;3.059161;R;;10591;
+919545;La Meida;50.62876;3.072854;R;;10591;
+938725;Brasserie de la Paix;50.635815;3.063069;R;;10591;
+938730;La Table du Siam;50.64165;3.061694;R;;10591;
+938962;Le Triskell;50.632465;3.053553;R;;10591;
+941727;La Taverne Flamande;50.636967;3.069829;R;;10591;
+951227;Le 28 thiers;50.63795;3.059114;R;;10591;
+951704;"l'auberge du temps jadis";50.62585;3.064997;R;;10591;
+968102;"N'Autre Monde";50.63798;3.062183;R;;10591;
+968557;Las Tapas;50.64637;3.055374;R;;10591;
+968558;"O Ch'ti B";50.64544;3.056517;R;;10591;
+968566;Le Maroc;50.6344;3.05734;R;;10591;
+970141;Beaurepaire;50.63253;3.06243;R;;9909;
+1008232;Le Paradoxe;50.720554;3.163065;R;;10591;
+1012100;Le Bistrot Lillois;50.642284;3.066154;R;;10591;
+1017818;Le Pot Beaujolais;50.636776;3.065275;R;;10591;
+1026189;Les Compagnons de la grappe;50.63869;3.063151;R;;10591;
+1048790;Carte Blanche;50.65108;3.126347;R;;10591;
+1055142;La Commedia;50.63717;3.06889;H;hotel;;
+1068376;"Le Jardin d' Alix";50.70736;3.1513;H;bed_and_breakfast;;
+1071235;Ibis Budget Lille Ronchin;50.604416;3.097334;H;hotel;;
+1071271;"Ibis Budget Lille Villeneuve d'Ascq";50.6436;3.14288;H;hotel;;
+1072502;Le Plaza Restaurant;50.6399;3.07564;R;;10591;
+1089886;In Bocca Al Lupo;50.640846;3.061436;R;;10591;
+1093972;HôtelF1 Lille Métropole;50.64511;3.096597;H;hotel;;
+1097777;La Cave aux Fioles;50.64247;3.066299;R;;10591;
+1113676;Le Bo Jardin;50.672802;3.157571;R;;10591;
+1116123;Le Beni Saf;50.62558;3.050449;R;;10591;
+1123489;"Appart'City Confort Lille - Euralille";50.645668;3.073528;H;hotel;;
+1124428;"L'Ecume des Mers";50.63725;3.061462;R;;10591;
+1137226;chtilong;50.63166;3.06403;R;;10591;
+1140187;Shahi Palais;50.63383;3.064085;R;;10591;
+1142933;Le Meunier;50.635586;3.07053;R;;10591;
+1157448;Novotel Lille Tourcoing;50.65619;2.99743;H;;;
+1164842;B&B Hotel Lille Lezennes Stade Pierre Mauroy;50.61665;3.118268;H;hotel;;
+1171806;Le Khedive;50.63613;3.06336;R;;10591;
+1175644;Wok & Sushi;50.64694;3.05476;R;;10591;
+1176811;Aux delices;50.63053;3.05715;R;;9901;
+1181807;"L'Aziza";50.63553;3.06993;R;;10591;
+1182549;CRAZY FOOD;50.63095;3.05558;R;;10591;
+1198856;La Bottega;50.641106;3.061734;R;;10591;
+1208999;Inter Hotel Belle Hotel;50.738926;2.736602;H;hotel;;
+1222918;Mister Bed Lomme;50.64694;2.97513;H;hotel;;
+1223874;Hotel Chopin;50.63548;3.07051;H;hotel;;
+1236483;B&B HOTEL Lille Seclin Unexpo;50.54628;3.05462;H;hotel;;
+1236485;B&B HOTEL Lille Centre Grand Palais;50.627853;3.082085;H;hotel;;
+1237411;Zango;50.64203;3.06601;R;;10591;
+1239099;La Menara;50.634823;3.063313;R;;10591;
+1319909;Le Fossile;50.63639;3.06;R;;10591;
+1319912;Restaurant Sebastopol;50.628963;3.058867;R;;10591;
+1322115;Notting Hill Coffee;50.63864;3.05985;R;;9900;
+1322183;Speed Burger;50.62876;3.05303;R;;10591;
+1322485;Bakus;50.66109;3.09532;R;;10591;
+1322500;Allo Couscous;50.625282;3.041752;R;;10591;
+1322553;Le Coq Hardi;50.63725;3.063351;R;;10591;
+1322727;Le Citron vert;50.62283;3.05992;R;;10591;
+1322728;African Children;50.63888;3.05862;R;;10591;
+1322733;Aux-Indes;50.63761;3.058537;R;;10591;
+1322734;La Cle de Sol;50.63457;3.07269;R;;10591;
+1322735;Tam Speed;50.6344;3.06815;R;;10591;
+1323084;All Pommodoro;50.63298;3.05327;R;;10591;
+1323088;Gondole LA;50.63693;3.02492;R;;10591;
+1323090;La Pulcinella;50.621956;3.038612;R;;10591;
+1323093;Papa Vero;50.63794;3.06976;R;;10591;
+1323226;Anatolie;50.63139;3.05962;R;;10591;
+1323227;Asie Snack;50.63627;3.06603;R;;10591;
+1323228;Azize Ekiz;50.63164;3.04938;R;;10591;
+1323234;Celine;50.62987;3.04594;R;;10591;
+1323246;Friterie Sensas;50.62436;3.06872;R;;10591;
+1323257;La Grignotine;50.63245;3.04293;R;;10591;
+1323259;"L'Aurassi";50.63627;3.06868;R;;10591;
+1323265;Sogood;50.6326;3.06209;R;;10591;
+1323266;Sukhothai;50.62488;3.04974;R;;10591;
+1323722;Speed Rabbit Pizza;50.63594;3.02888;R;;10591;
+1324326;Tartine et Compagnie;50.6352;3.06714;R;;10591;
+1324330;Argana;50.63918;3.05862;R;;10591;
+1324333;Le Pubstore;50.644306;3.059542;R;;10591;
+1324334;Quai 38;50.646843;3.057675;R;;10591;
+1324338;"Restaurant L'Inca";50.64073;3.06005;R;;10591;
+1324340;Trattoria Ricordi;50.643482;3.059044;R;;10591;
+1324591;"L'Officina";50.635494;3.05974;R;;10591;
+1324597;Oz Pacha;50.63932;3.05836;R;;10591;
+1324623;LA FAMILLE - Finest Lunch;50.64095;3.14595;R;;10591;
+1324679;Bel Etage;50.69192;3.17211;R;;10591;
+1324683;Friterie de la Marque;50.66961;3.07758;R;;10591;
+1325447;Belec;50.63829;3.05914;R;;10591;
+1325452;Narjis;50.61943;3.06699;R;;10591;
+1325453;Opera Corner;50.637608;3.067367;R;;10591;
+1325456;Philip;50.64181;3.06572;R;;10591;
+1325664;Mc Murphy;50.69095;3.17777;R;;10591;
+1326309;"L'Unique";50.62637;3.06826;R;;10591;
+1326866;Le Villeneuve;50.62453;3.14801;R;;10591;
+1327498;Le Chantilly;50.65845;3.14854;R;;10591;
+1327626;Himalaya;50.63101;3.05873;R;;10591;
+1327639;Le Mazafran;50.63529;3.07005;R;;10591;
+1327641;Le Mekong;50.62443;3.05005;R;;10591;
+1327644;Le Dahu;50.63236;3.053429;R;;10591;
+1327647;Le Djurdjura;50.626915;3.068455;R;;10591;
+1328156;La Fine Bouche;50.63028;3.04726;R;;10591;
+1328157;La Houblonniere;50.637173;3.063403;R;;10591;
+1328163;La Piadina;50.64515;3.08583;R;;10591;
+1328165;La Rumeur;50.62329;3.07529;R;;10591;
+1328167;Le Clair de Lune;50.642483;3.066436;R;;10591;
+1328170;Le Corfou;50.63711;3.047716;R;;10591;
+1328173;Le Bec a Plumes;50.62035;3.06853;R;;10591;
+1328176;"Le Bol D'or";50.62484;3.049901;R;;10591;
+1328421;Tout feu tout flamme;50.71223;3.15064;R;;10591;
+1331236;Sultane;50.65046;3.07205;R;;10591;
+1332161;Basilico et Co;50.722454;3.160293;R;;10591;
+1332163;Bosphorus;50.72414;3.15666;R;;10591;
+1332165;La Baratte;50.725548;3.129685;R;;10591;
+1332232;Al Fornello;50.65221;3.08107;R;;10591;
+1332412;"L'Aparte";50.71818;3.14144;R;;10591;
+1332415;Les Oliviers;50.71183;3.15942;R;;10591;
+1333776;Hippopotamus;50.65139;2.982672;R;;10591;
+1333840;La Chaumine;50.64464;3.013457;R;;10591;
+1333841;La Criee Lomme;50.65125;2.982097;R;;10591;
+1333844;Le Toscano;50.64241;3.01667;R;;10591;
+1334224;Casa Mia;50.75235;3.12056;R;;10591;
+1335168;Le Pekin;50.65544;3.07361;R;;10591;
+1335523;Afro-Diziak;50.68635;3.17567;R;;10591;
+1335552;"La Cantine de l'Atelier Bricole";50.68821;3.16562;R;;10591;
+1335555;Le Rivoli;50.691326;3.173366;R;;10591;
+1335682;La Palanquee;50.551373;3.029477;R;;10591;
+1335715;Sidi Bou;50.54923;3.029957;R;;10591;
+1336084;L’Oeil;50.66473;3.085732;R;;10591;
+1336129;La Fontaine de Fes;50.68852;3.11401;R;;10591;
+1336130;La Salle a Manger;50.657963;3.103284;R;;10591;
+1336955;"L'Hippo";50.644447;3.028769;R;;10591;
+1337288;Le Pizzaiolo;50.73089;2.74226;R;;10591;
+1338144;Le Mediterraneen;50.641903;3.108779;R;;10591;
+1338243;Le Velo de Suzon;50.687;2.880591;R;;10591;
+1338254;Le Roi Du Couscous - Restaurant Tipaza;50.68669;2.894729;R;;10591;
+1338310;Le Chalet de la Pepiniere;50.75251;3.09251;R;;10591;
+1338711;Les Grillons;50.74361;3.162431;R;;10591;
+1338975;Le Parasol;50.72023;2.80386;R;;10591;
+1339618;Le Toboggan;50.600143;3.080278;R;;10591;
+1339949;Le Witloof;50.547153;3.146358;R;;10591;
+1371631;La Table Marocaine;50.63345;3.06128;R;;10591;
+1371942;Château de Courcelette;50.66544;3.20933;H;bed_and_breakfast;;
+1380312;Le Napoleon;50.636845;3.070008;H;hotel;;
+1380803;Le Jardin du Cloitre;50.638134;3.055131;R;;10591;
+1381296;Meert;50.63768;3.061862;R;;9909;
+1393095;Les Remparts;50.64384;3.068014;R;;10591;
+1393100;Auberge du Forgeron;50.548965;3.029233;R;;10591;
+1408120;Le Napoleon;50.637154;3.070208;R;;10591;
+1485815;Entre Cour et Jardin;50.58765;3.10786;H;guest_house;;
+1536095;Urban Hôtel & SPA;50.623276;3.075775;H;hotel;;
+1568207;FRIT ST-ANNE Chez Gaiguette;50.72783;3.13815;R;;10591;
+1569157;Braz Lille;50.63725;3.06899;R;;10591;
+1581618;Monsieur Jacques;50.641903;3.065903;R;;10591;
+1595725;Rose Caffe;50.52657;3.16953;R;;10591;
+1597976;"L'Amiral";50.6331;3.03708;R;;10591;
+1606349;Restaurant Au Gout Du Jour;50.638775;3.05765;R;;10591;
+1643154;"A La Fleur d'Oranger";50.64978;3.076571;H;guest_house;;
+1699489;"Kyriad Lille Est - Villeneuve D'Ascq";50.638996;3.144717;H;hotel;;
+1740729;Hôtel Barrière Lille;50.636845;3.077268;H;hotel;;
+1759857;"Chambres d'Hotes La Verrerie";50.405;3.28207;H;bed_and_breakfast;;
+1762459;Kloung Soukhothai & Abet;50.628345;3.051682;R;;10591;
+1775539;La Terrasse du Parc;50.636677;3.0775;R;;10591;
+1785001;Hotel du Centre;50.62686;3.11047;H;small_hotel;;
+1788496;Jour de Peche;50.636925;3.061727;R;;10591;
+1809913;Fuxia Restaurant;50.639675;3.061119;R;;10591;
+1809948;Taho & Lina;50.65278;2.988611;A;;;attraction
+1833158;SweetOme Aparthotel;50.63722;3.069386;H;condo;;
+1841828;Koezio;50.648056;3.140479;A;;;attraction
+1845344;al-manar;50.63632;3.06871;R;;10591;
+1863030;Layalina;50.623817;3.067962;R;;10591;
+1877794;Au Diable des Plaisirs;50.628113;3.061028;R;;10591;
+1886346;Auberge du Vert Mont;50.79311;2.70474;H;small_hotel;;
+1904005;La Ferme des Buis;50.63454;3.00775;H;bed_and_breakfast;;
+1904160;"Tradi'Balade";50.6626;3.0514;A;;;attraction
+1906444;Cafe brasserie de Foy;50.63624;3.063324;R;;10591;
+1950217;"L'Art des Mets";50.584103;2.884486;R;;10591;
+1984516;La Pilaterie;50.5858;2.68088;H;;;
+2006467;Abri du Passant;50.6839;3.16519;H;guest_house;;
+2010308;"L'Improviste";50.622257;3.072027;R;;10591;
+2010408;Le Septentrion;50.70763;3.112977;R;;10591;
+2010573;Les Toquees by Benoit Bernard;50.638195;3.034722;R;;10591;
+2010608;Al Theatro;50.632874;3.068126;R;;10591;
+2010737;Camping Le Camp des Roses;50.59615;2.81929;H;campground;;
+2012794;Ferme de la Place;50.58282;3.18788;H;guest_house;;
+2016675;"Restaurant Chinois Le Dragon d'Or";50.63004;3.05682;R;;10591;
+2024602;Cafe Le Voltaire;50.637016;3.062355;R;;10591;
+2027194;Pizza Pai;50.618233;3.12921;R;;10591;
+2027197;"Oasis d'Orient";50.61883;3.13223;R;;10591;
+2032317;Le Festival;50.72403;3.158959;R;;10591;
+2032321;Cafe de la Paix;50.63579;3.06339;R;;10591;
+2035312;Office de Tourisme de Lille;50.63543;3.061971;A;;;attraction
+2039935;Brasserie Flore;50.63605;3.063198;R;;10591;
+2054539;La Grange;50.64267;2.99646;R;;10591;
+2061883;Brasserie Comptoir 44;50.642216;3.066181;R;;10591;
+2062485;New Square Gallery;50.64314;3.05629;A;;;attraction
+2073295;Le35Bis;50.63629;3.02355;H;bed_and_breakfast;;
+2099444;La Terrasse de Premesques;50.64984;2.94657;R;;10591;
+2103014;La Valandière;50.74882;3.06386;H;guest_house;;
+2135979;La Ferme Blanche;50.654335;3.00414;H;hotel;;
+2166131;"la taverne de l'alloeu";50.61465;2.80421;R;;10591;
+2173933;B&B HOTEL Lille Tourcoing Centre;50.721237;3.162799;H;hotel;;
+2180063;"L'Autrement Dit";50.63931;3.05851;R;;10591;
+2197743;"Memphis Coffee Villeneuve d'Ascq";50.615788;3.125569;R;;10591;
+2211209;Het Blauwershof;50.793056;2.642524;R;;10591;
+2215434;Domaine du Haut Ballot;50.72211;3.052751;H;guest_house;;
+2215623;"Estaminet L'Ecole";50.518612;3.019606;R;;10591;
+2223405;Le Grenier;50.72463;3.153842;R;;10591;
+2234170;Les Pres du Hem;50.69519;2.88163;A;;;attraction
+2234190;La Vieille France;50.64289;3.066842;R;;10591;
+2234211;"La Ferme de l'Etrier";50.801994;2.679347;R;;10591;
+2238041;Shalimar;50.63335;3.06445;R;;10591;
+2242562;Restaurant Le Quesne;50.67336;3.106383;R;;10591;
+2244717;"La Maison d'Adam";50.624477;3.121465;H;bed_and_breakfast;;
+2265417;Table des Jardins;50.639168;2.866167;R;;10591;
+2272417;"Musee d'Histoire Naturelle de Lille";50.6268;3.066587;A;;;attraction
+2272480;Maison natale Charles de Gaulle;50.645935;3.058813;A;;;attraction
+2273090;Musée des Canonniers Sédentaires de Lille;50.6406;3.06898;A;;;attraction
+2273093;Citadelle de Lille;50.6371;3.05108;A;;;attraction
+2275348;Fer A Cheval;50.671864;3.155247;R;;10591;
+2276381;Tir Na Nog;50.62722;3.061019;R;;10591;
+2283998;"Le Gan'ge";50.64327;3.067504;R;;10591;
+2287836;La Guinguette de la Marine;50.636944;3.046693;R;;10591;
+2291108;Brasserie Andre;50.633263;3.062995;R;;10591;
+2295241;La Mere Simone;50.64505;2.96466;R;;10591;
+2304810;Bistrot  Carnot;50.638237;3.065092;R;;10591;
+2305544;"Saveurs De L'Inde";50.629032;3.059658;R;;10591;
+2308028;Le Forest;50.720364;3.126299;R;;10591;
+2313253;Hotel Moustache;50.546513;3.055637;H;hotel;;
+2331324;Musee de la Bataille de Fromelles;50.60796;2.850789;A;;;attraction
+2341679;Meo;50.636497;3.063631;R;;9900;
+2351583;Au Roy Des Gueux;50.63215;3.05511;R;;10591;
+2366743;Courtepaille;50.681854;3.128659;R;;10591;
+2366746;Cafe des Arts;50.63807;3.06677;R;;10591;
+2366909;Restaurant Tomate cerise Wambrechies;50.685413;3.061528;R;;10591;
+2390738;La Maison Saint Maur;50.653706;3.083761;H;condo;;
+2394517;La Creperie Grand Place Lille;50.637592;3.063367;R;;10591;
+2401294;Grill St Anne;50.635464;3.06941;R;;10591;
+2416086;Prestige Palace;50.64319;3.06307;A;;;
+2428776;Auberge des Vieilles Poutres;50.584003;2.889759;R;;10591;
+2428954;La Place;50.65397;3.06831;R;;10591;
+2428956;Le Triez;50.69259;3.13142;R;;10591;
+2433178;"Au Paon D'Or";50.632908;3.062433;R;;10591;
+2439933;"O'Marais";50.56757;3.16844;R;;10591;
+2456426;Restaurant Le Hurlevent;50.7681;3.103025;R;;10591;
+2463505;"L'Atterrissage";50.59603;2.94419;H;bed_and_breakfast;;
+2469935;La Halte Bourgeoise;50.711;3.15916;H;bed_and_breakfast;;
+2476743;ISNOR Le Marc;50.637962;3.049555;A;;;
+2477242;"L'Olivier";50.64387;3.05852;R;;10591;
+2481414;"L'Iimprevu";50.54678;3.02698;R;;10591;
+2489033;"Courtepaille de Lille Villeneuve D'ascq V2 Cinema";50.615746;3.125583;R;;10591;
+2500615;"L'exSeption";50.707672;3.113081;R;;10591;
+2509707;Il Ristorante;50.634098;3.066001;R;;10591;
+2519926;La Villetta;50.70642;3.11342;R;;10591;
+2530949;Le Barbier qui fume Vieux-Lille;50.641403;3.062165;R;;10591;
+2535042;Fujiyama;50.6301;3.05719;R;;10591;
+2543029;"Elisabeth's";50.638645;3.060131;R;;9909,16556;
+2543126;Le Cafe Livres;50.63782;3.05838;R;;10591;
+2558192;Musee Hospice Comtesse;50.641106;3.063515;A;;;attraction
+2562900;Amarine Wasquehal;50.68001;3.124444;R;;10591;
+2571172;Aux Indes Express;50.63189;3.054561;R;;10591;
+2571280;Le Pavillon de Beaumont;50.66861;3.166935;H;bed_and_breakfast;;
+2571430;Happy Fox & Veggie Pizza Premium Quality Pizza;50.64232;3.08702;R;;16556;
+2613399;Fish Spa;50.63719;3.06868;A;;;attraction
+2614547;Les Tuileries;50.456036;3.253415;R;;10591;
+2631658;"Fifi's Wine Bar";50.638813;3.057944;R;;10591,11776;
+2640412;Sushi Shop Lille;50.640636;3.064858;R;;10591;
+2643074;"L'In-dépendance";50.64047;3.02666;H;condo;;
+2643560;"L'Arbre";50.58996;3.229817;R;;10591;
+2655043;le parvis de la treille;50.639874;3.061951;R;;10591;
+2692901;"L'Audience";50.64183;3.06448;R;;10591;
+2705776;Leon de Bruxelles;50.68212;3.131546;R;;10591;
+2716806;Au Temps des Roses;50.60052;2.74376;H;bed_and_breakfast;;
+2719662;La Couturette;50.476013;3.333314;R;;10591;
+2720924;Aux Antipodes;50.64215;3.06097;R;;10591;
+2721700;La Marmite de Pierrot;50.64475;2.967476;R;;10591;
+2722237;Osaka;50.637074;3.06869;R;;10591;
+2734142;La Chaumiere;50.62031;3.0681;R;;10591;
+3136977;"L' estaminet";50.516064;2.89444;R;;10591;
+3137018;"Le P'tit Quinquin";50.72169;3.15885;R;;10591;
+3140690;Table Attitude;50.63677;3.06087;R;;10591;
+3155436;La Maison du Champlain;50.629814;3.061378;H;inn;;
+3156153;Au Troubadour;50.63137;3.1128;H;bed_and_breakfast;;
+3161158;"L'Esplanade Lille";50.64227;3.053758;H;bed_and_breakfast;;
+3171596;"L'Essentiel";50.514046;3.061872;R;;10591;
+3185787;Le Tandem;50.585514;2.968362;R;;10591;
+3186389;Sous le Charme;50.671253;3.021559;R;;10591;
+3186664;La Cave a Manger de Jacques Dumas;50.63815;3.05834;R;;10591;
+3187276;Guerino 2;50.64637;3.07627;R;;10591;
+3199870;Musée de la Poupée et du Jouet ancien;50.686443;3.054571;A;;;attraction
+3208062;Chez Max;50.6311;3.05509;R;;10591;
+3225865;"L'Auberge du Cheval Blanc";50.734615;2.734507;R;;10591;
+3237822;La Bonbonniere;50.632126;3.063331;R;;10591;
+3244762;"Maison d'hôtes de la Lys";50.7724;3.07572;H;guest_house;;
+3254604;Le Potager des Demoiselles Cote Bistro;50.57534;3.078619;R;;10591;
+3256488;LOFT 122;50.704514;3.172014;R;;10591;
+3258355;Hôtel Joly;50.68567;2.88318;H;inn;;
+3258709;Cimetière Militaire Allemand;50.52398;2.94185;A;;;attraction
+3293390;La Dinette;50.645786;3.056035;R;;10591;
+3297762;"Hotel-Restaurant Pomme d'Or";50.7399;2.73669;H;small_hotel;;
+3301625;Au Doux Lieu;50.681335;2.716379;H;;;
+3312870;"L'Identique";50.6858;2.88187;R;;10591;
+3315392;galata kebab;50.66644;3.141646;R;;10591;
+3318705;La Guinguette;50.638695;2.965818;R;;10591;
+3320927;Bellerose Bar & Diner;50.6392;3.058626;R;;10591;
+3330070;Adriano;50.679592;3.247478;R;;10591;
+3330531;Chez Armand;50.634693;3.063341;R;;10591;
+3331781;Liberch’ti;50.63086;3.06371;R;;10591;
+3341909;J & J Sushi;50.72193;3.15879;R;;10591;
+3347057;Les Deux Gourmets;50.57007;3.210439;R;;10591;
+3347481;Les Hauts de Lille;50.636948;3.077259;R;;10591;
+3349084;TradeMark Bar Restaurant;50.664425;3.085208;R;;10591;
+3351199;Via Corsica;50.64219;3.06092;R;;10591;
+3364730;"L'Auberge d'Hempempont";50.6549;3.17288;R;;10591;
+3364822;Deule Insolite;50.69415;3.04876;H;campground;;
+3364980;Brasserie du President;50.637047;3.063078;R;;10591;
+3365098;"A Ch'carrefour Gourmand";50.68265;2.885297;R;;10591;
+3368658;"L'Estaminet Gantois";50.63104;3.068333;R;;10591;
+3368660;Fort de mons;50.64391;3.118994;R;;10591;
+3377603;La Maison du Jardin Vauban;50.63583;3.04811;H;guest_house;;
+3377844;La Fattoria;50.563046;2.75214;H;small_hotel;;
+3379575;Le Chi Yoda;50.67341;3.14515;R;;10591;
+3380139;Lannjie Wok;50.74061;3.14761;R;;10591;
+3380249;Pizza Pazza;50.69677;3.20337;R;;10591;
+3387757;La Galettery;50.68769;3.05133;R;;10591;
+3388987;Gourmet de Croix;50.67363;3.146036;R;;10591;
+3399415;"Le Petit Barbue D'anvers";50.64121;3.064336;R;;10591;
+3404671;EXKi;50.636227;3.060319;R;;10591;
+3412491;Hokkaido;50.62994;3.05701;R;;10591;
+3418278;Villa Paula;50.708847;3.153464;H;bed_and_breakfast;;
+3419249;Chez Shao;50.72179;3.15772;R;;10591;
+3431136;La Capsule;50.6406;3.060199;R;;10591;
+3432716;Les Ballons Migrateurs;50.70514;3.0675;A;;;attraction
+3455994;Sergic Residences Appart-Hotel Grand Stade Lille;50.61468;3.13868;H;hotel;;
+3462139;La Petite Belgique;50.611355;3.199384;R;;10591;
+3467413;Le Piazza;50.72141;3.157414;R;;10591;
+3469669;"l'Escale des Saveurs";50.64825;3.077355;R;;10591;
+3471908;Cafe Citoyen;50.632717;3.063217;R;;10591;
+3474899;Raconte Nous Une Histoire;50.62913;3.03456;A;;;
+3477821;le Kabylia;50.70314;3.2086;R;;10591;
+3483975;Le Trou Normand;50.606705;3.256811;R;;10591;
+3484324;La Creperie de Lille;50.642853;3.067014;R;;10591;
+3485015;Le Maisnil Mon Temps;50.61111;2.878234;R;;10591;
+3487290;"L'Escale";50.61032;3.163081;R;;10591;
+3498040;Zénith de Lille;50.633663;3.077514;A;;;attraction
+3505461;Cafe de la Fontaine;50.68351;2.995213;R;;10591;
+3505718;Il Ristorante Marquette-lez-Lille;50.682384;3.083724;R;;10591;
+3512538;Aux 4 Vents;50.61283;3.121978;R;;10591;
+3513136;Hippopotamus;50.61575;3.125098;R;;10591;
+3514195;Cafe Oz;50.64164;3.06491;R;;10591;
+3521752;Le Verlaine;50.62629;3.068491;R;;10591;
+3525895;La Ferme Fleurie;50.57848;2.85053;R;;10591;
+3526029;Auberge De La Croix Ou Pile;50.43669;3.294708;R;;10591;
+3526217;Les Singes Enivres;50.584103;2.888914;R;;10591;
+3526218;De Bouche a Oreille;50.597126;2.951684;R;;10591;
+3529000;Mademoiselle;50.63822;3.059215;R;;10591;
+3535296;La Regalade;50.636475;3.065525;R;;10591;
+3536508;Best Western Premier Why Hotel;50.63427;3.061403;H;hotel;;
+3538596;"Les Saveurs d'Hier et Aujourd'hui";50.58846;3.16704;R;;10591;
+3538645;Cafe-Bar de la Gare;50.63931;3.06159;R;;10591;
+3538855;"Le Sable d'Or";50.68878;2.88039;R;;10591;
+3539535;La taverne du petit Wasquehal;50.654545;3.128081;R;;10591;
+3546893;La Maison Bleue de Lille;50.62859;3.05009;H;guest_house;;
+3546942;La Niche;50.600605;2.732592;H;bed_and_breakfast;;
+3560943;La Ferme des Trois Louches;50.69962;3.035908;R;;10591;
+3575072;Au Coin Gourmand;50.525017;3.282849;R;;10591;
+3575157;La Petite Auberge;50.688915;3.056774;R;;10591;
+3590639;La Gare des Annees Folles;50.660667;2.800828;R;;10591;
+3590691;Le Sapeur;50.7651;3.00713;R;;10591;
+3590694;Auberge Saint Valentin;50.627243;3.009589;R;;10591;
+3594823;Cremerie Freres Delassic;50.63956;3.064821;R;;10591;
+3594921;Square Cafe;50.634663;3.061085;R;;10591;
+3596246;Au Coeur du Jardin;50.626;3.06287;H;condo;;
+3600243;"L'an Droit";50.61998;3.06835;R;;10591;
+3605488;Amarine Faches;50.584946;3.08271;R;;10591;
+3607846;"L'etoile du Nord";50.63866;3.06495;R;;10591;
+3609418;Bar Paralelle;50.6388;3.06216;R;;10591;
+3620312;"Trottin'Nord Tours";50.63511;3.04424;A;;;attraction
+3625722;Guided Tour of Vieux Lille (Old Town);50.65619;2.99743;A;;;attraction
+3637321;Le Rustique;50.74419;3.17316;R;;10591;
+3643342;Galerie Vasse;50.63727;3.06262;A;;;attraction
+3643753;Le Tagine;50.63722;3.06142;R;;10591;
+3653027;Les 3 Bandits de Napoli;50.6375;3.061938;R;;10591;
+3653309;Aux Bretons;50.6263;3.049064;R;;10591;
+3655882;Pizzeria Le Napoli;50.53178;2.80709;R;;10591;
+3670387;"L'ironie des Sens";50.6434;3.05918;R;;10591;
+3679015;Estaminet Chez Leon;50.643955;2.720704;R;;10591;
+3679025;Les Rois Faineants;50.62213;3.06269;R;;10591;
+3680979;Dans le Meilleur des Mondes;50.703716;3.098373;R;;10591;
+3682231;Hoover Garden;50.62729;3.079457;R;;10591;
+3686517;La Bascule du Croise;50.66416;3.09155;R;;10591;
+3707143;Au Gre des Saisons;50.64435;3.05786;R;;10591;
+3707144;Le Scoop;50.64467;3.0576;R;;10591;
+3707535;Cook&Go;50.64123;3.06254;R;;10591;
+3720761;Thai Enjoy;50.63015;3.06144;R;;10591;
+3722145;"Ch'ti Charivari";50.65134;2.981856;R;;10591;
+3722878;Park Inn by Radisson Lille Grand Stade;50.613396;3.133377;H;hotel;;
+3723674;La Rosière;50.6652;3.08674;H;bed_and_breakfast;;
+3727321;Le Domaine des Cigognes Restaurant;50.5372;3.10349;R;;10591;
+3727363;"Les P'tites Cotes";50.61136;3.1612;R;;10591;
+3728266;"Au pays d'Armor";50.63234;3.06505;R;;10591;
+3730098;"L'assiette anglaise";50.63717;3.06889;R;;10591;
+3730461;Trogneux;50.63773;3.0642;R;;10591;
+3733118;Ferme de la Pouillerie;50.56741;2.98743;H;bed_and_breakfast;;
+3735114;Restaurant de Fes;50.56795;3.21583;R;;10591;
+3735286;"L'Industrie";50.667873;3.056629;R;;10591;
+3735344;"Le Canon d'Or";50.64889;3.04301;R;;10591;
+3735493;Mobilboard Segway Lille;50.64473;3.049983;A;;;
+3737668;Beers and Co;50.613304;3.132753;R;;10591;
+3746256;Le Bistro du Croise;50.66439;3.117364;R;;10591;
+3746858;Ibar;50.63657;3.07699;R;;10591;
+3746882;"La Table d'Edouard";50.634968;3.056322;R;;10591;
+3747492;"L'art Culin'r";50.6375;3.14859;R;;10591;
+3747523;La Terrasse;50.607597;3.253244;R;;10591;
+3747537;Rosso & Bianco;50.610607;3.159526;R;;10591;
+3750953;Buffalo Grill;50.651398;2.984741;R;;10591;
+3751421;Estaminet Parent;50.673725;2.984297;R;;10591;
+3751773;Les Salons du Manoir;50.52043;2.89091;R;;10591;
+3758945;Ile de Crete;50.64351;3.067768;R;;10591;
+3767793;Paul;50.6377;3.074373;R;;9901;
+3778499;Le Monde Est Petit;50.63513;3.05727;R;;10591;
+3778614;Le Metropole;50.636066;3.062893;R;;10591;
+3780740;par la Collina;50.62832;3.0776;R;;10591;
+3784521;La Table;50.612553;3.131901;R;;10591;
+3794642;Bar le Feel Good;50.64474;3.05733;R;;10591;
+3803024;La reserve;50.62583;3.05168;R;;10591;
+3803081;Le modjo;50.62344;3.05368;R;;10591;
+3808973;"Queen's Head by Cafe Oz";50.641453;3.064888;R;;10591;
+3815861;Estaminet les 2 saveurs;50.64379;3.05864;R;;10591;
+3820532;Why Dinette Bar;50.63424;3.0615;R;;10591;
+3821078;"L'escale";50.634773;3.040278;R;;10591;
+3835075;"La Brasserie de L'usine";50.675735;3.1967;R;;10591;
+3840860;"L'etoile d'asie";50.72196;3.160574;R;;10591;
+3842131;SOHO Urban Food;50.613056;3.132363;R;;10591;
+3843196;LG Kebab;50.63846;2.71579;R;;10591;
+3846145;Saint Honore;50.77165;3.07867;R;;10591;
+3858694;"Le Garage - Restaurant de l'Oiseau-Mouche";50.693317;3.184231;R;;10591;
+3859015;Pizza Fissa;50.66664;3.04347;R;;10591;
+3860390;Base Camp;50.633465;3.055207;R;;10591;
+3860437;Grill Courtepaille;50.582638;3.092542;R;;10591;
+3865121;"L'Irish";50.64524;3.0754;R;;10591;
+3865179;La Paternite;50.54872;3.023033;R;;10591;
+3872814;La Pataterie;50.546604;3.051657;R;;10591;
+3875195;La Villa Carat;50.67051;3.15835;H;villa;;
+3908872;Amoi Sushi;50.6352;3.06714;R;;10591;
+3927236;Little Havana;50.637306;3.058236;A;;;attraction
+3928895;Utopia Suite & Spa;50.69373;3.229397;A;;;
+3937536;"L'Auberg'in";50.598804;2.811562;R;;10591;
+3941712;Wazawok Lille Centre;50.637066;3.06772;R;;16556;
+3944612;B&B HOTEL Lille Grand Stade;50.612965;3.132964;H;hotel;;
+3948236;Il Piccolo Mulino;50.64669;3.076442;R;;10591;
+3952641;"Le bistrot du Canon d'or";50.649536;3.042113;R;;10591;
+3953190;Dame C.;50.63787;3.05838;A;;;attraction
+3953543;"La Grande Brasserie de l'Imperatrice Eugenie";50.691902;3.178654;R;;10591;
+3953547;Estaminet du Vert Pont;50.48889;3.351909;R;;10591;
+3955005;Cafe Du Commerce;50.71217;2.93259;R;;10591;
+3960328;"Chez F'lau";50.452194;3.201192;R;;10591;
+3966231;Lille à Vélo By Le Grand Huit;50.637;3.047533;A;;;attraction
+3966371;Le Dandy;50.638668;3.060242;A;;;attraction
+3978021;Toyotomi;50.62978;3.05778;R;;10591;
+4002309;Ddzen;50.67549;3.08893;A;;;attraction
+4007167;La Maison Commune;50.626633;3.149572;R;;10591;
+4007206;Friterie de Phalempin;50.51722;3.01737;R;;10591;
+4019884;"L'Axiome";50.72101;3.15837;R;;10591;
+4019944;La Table de Chantal;50.736317;3.149704;R;;10591;
+4041107;"La P'tite Planche";50.63083;3.00548;R;;10591;
+4041912;Le Jazzique;50.623466;3.05427;R;;10591;
+4050964;Calm Appart Hotel;50.63738;3.069317;H;condo;;
+4063062;Le Moulin;50.605125;2.91655;R;;10591;
+4067698;Le Patacrepe Lille Lezennes;50.614662;3.124903;R;;10591;
+4083746;La Cascade des Regions;50.63331;3.04026;R;;10591;
+4084422;La Joyere;50.6679;2.97025;R;;10591;
+4089445;La Maison Flamen;50.62447;3.04113;H;bed_and_breakfast;;
+4089616;Le Brigand;50.64243;3.06643;A;;;attraction
+4090429;Le Cercle;50.67447;3.14574;R;;9900;
+4091733;Bar Musical;50.62398;3.05483;A;;;attraction
+4097391;Maison de la Photographie;50.632305;3.085061;A;;;
+4102971;Baan Boon;50.62489;3.0683;R;;10591;
+4128824;Le Parallele;50.6388;3.06216;A;;;attraction
+4130779;Au 52;50.66777;3.14264;R;;10591;
+4139414;Le QG Brasserie;50.636333;3.06962;R;;10591;
+4149691;Le Boulevard;50.63484;3.0567;R;;10591;
+4155260;Pizzeria des Domaines;50.70294;3.0929;R;;10591;
+4156654;Darna Salon de The Shisha;50.634285;3.055228;R;;10591;
+4162608;Sushi Shop;50.632656;3.062682;R;;10591;
+4164700;Buffalo Grill;50.74551;3.118405;R;;10591;
+4164739;Deniz;50.62871;3.05291;R;;10591;
+4172569;Villa Gounod;50.642265;3.088807;H;hotel;;
+4172723;Le Palm;50.62522;3.05551;R;;10591;
+4177444;"Fogg's";50.63955;3.06192;R;;10591;
+4178504;"A L'Origine";50.628616;3.091012;H;bed_and_breakfast;;
+4178525;Côté Cour - Côté Jardin;50.73574;2.76201;H;bed_and_breakfast;;
+4184710;Rose de coton;50.738;3.11602;A;;;attraction
+4185769;Adobo loco Wasquehal;50.64939;3.12027;R;;10591;
+4191841;La Ferme des Orgues;50.69721;2.80568;A;;;attraction
+4206825;"Les Vins d'Aurelien";50.63385;3.06088;A;;;attraction
+4212644;Le Pearl;50.63141;3.04033;R;;10591;
+4215342;Latina Cafe;50.63255;3.05487;A;;;attraction
+4228575;Adobo Loco;50.651283;3.12506;R;;10591;
+4235011;"Chapelle Sainte-Thérèse-de-l'enfant-Jésus et de la Sainte-Face";50.65532;3.17355;A;;;attraction
+4242962;Aux Merveilleux de Fred;50.641388;3.062208;R;;9909;
+4243019;Pizza Pai;50.67991;3.22357;R;;10591;
+4252345;Samourai;50.635372;3.069953;R;;10591;
+4260992;Crocodile Restaurant;50.58528;3.084561;R;;10591;
+4276508;Le Terrier;50.615566;2.960715;R;;10591;
+4293796;La Brulerie;50.62653;3.04868;R;;9900;
+4309269;Musee de la Vie Rurale;50.69961;2.7709;A;;;attraction
+4310033;Hotel F1 Lille Englos;50.63555;2.966142;H;hotel;;
+4310133;Ibis Styles Lille Marcq en Baroeul;50.675766;3.116389;H;hotel;;
+4326947;Les Bouchees Doubles;50.677418;2.874372;R;;10591;
+4340505;Balsamique Restaurant;50.68745;3.052897;R;;10591;
+4341097;Le Bistrot de Tonton;50.71563;2.66163;R;;10591;
+4347136;Le Roi de la Moule;50.600277;3.080382;R;;10591;
+4364441;Zein Oriental Spa;50.69462;3.13215;A;;;attraction
+4364779;Tour de Lille;50.62012;3.05046;A;;;attraction
+4364780;Parc Henri Matisse;50.63994;3.07199;A;;;attraction
+4364782;Opéra de Lille;50.63751;3.065043;A;;;attraction
+4373285;Porte de Roubaix;50.63928;3.07045;A;;;attraction
+4408912;Hôtel de Ville;50.62925;3.06859;A;;;attraction
+4408913;Eglise Saint Maurice;50.63588;3.06749;A;;;attraction
+4408914;Palais Rameau;50.63514;3.04638;A;;;attraction
+4416151;Le Flandre;50.52063;2.797488;R;;10591;
+4421893;Les Chambres de Mélusine;50.73969;2.73664;H;bed_and_breakfast;;
+4431383;Friterie Robert;50.48525;3.35766;R;;10591;
+4435771;Auberge des Roloirs;50.734703;2.945786;R;;10591;
+4437924;Le Kangourou Bar Restaurant;50.62635;3.04733;R;;10591;
+4441439;Euro Istanbul;50.6109;2.98325;R;;10591;
+4452599;La Chapelle 2;50.64445;3.05773;A;;;attraction
+4458209;Taco Memo;50.62895;3.05353;R;;10591;
+4462758;Paradis221;50.613056;3.132447;R;;10591;
+4465509;Le Colibri;50.51587;2.839179;R;;10591;
+4469186;Le Restaurant Campanile;50.6531;2.98383;R;;10591;
+4471864;Don Burrito;50.62399;3.06702;R;;10591;
+4473598;Blanca I Rossa;50.61028;3.16323;R;;10591;
+4496601;Akio;50.69763;3.16674;R;;10591;
+4498818;Campanile Lille - Euralille;50.645584;3.072126;H;hotel;;
+4507315;Le Passage;50.636112;3.063056;R;;10591;
+4513674;"L'essentiel";50.654;3.047901;R;;10591;
+4521006;Les Pyramides;50.67117;3.230586;R;;10591;
+4579206;Subway;50.62724;3.14078;R;;10591;
+4581737;La Canne A Sucre;50.62333;3.0644;R;;10591;
+4605203;Musee du 5 juin 1944 message Verlaine;50.71127;3.15456;A;;;attraction
+4607591;La Ceriseraie;50.63326;2.76987;H;bed_and_breakfast;;
+4610620;La Petite Auberge;50.651917;3.027182;R;;10591;
+4641706;Indian House;50.639515;3.058306;R;;10591;
+4688018;Villa Iacazio;50.64085;3.02744;R;;10591;
+4695916;Les Terrasses;50.715282;3.108203;R;;10591;
+4707895;Le Bistrot Thai;50.637886;3.059578;R;;10591;
+4723983;Picco bello;50.68329;2.88486;R;;10591;
+4724667;Pheasant Wood Military Cemetery;50.61033;2.8503;A;;;attraction
+4724824;"A L'Estaminet De Roncq";50.75495;3.120647;R;;10591;
+4736631;Sushi Kyo;50.615627;3.125089;R;;10591;
+4748908;Ta Sushi;50.6913;3.14006;R;;10591;
+4749337;Moshi Moshi;50.632538;3.063817;R;;10591;
+4752615;"L'etable du bien etre";50.7678;3.1292;A;;;attraction
+4757402;"L'Expresso";50.55762;3.03292;R;;10591;
+4759554;Golf le Vert Parc;50.566605;2.833604;A;;;attraction
+4761221;La Terrasse;50.633705;3.066579;R;;10591;
+4776545;"L'Express";50.635555;3.070236;R;;10591;
+4776557;Lycee Hotelier Orchies;50.48049;3.24181;R;;10591;
+4781702;Chez Tonio;50.63325;3.0907;R;;10591;
+4784451;La Toque Gourmande;50.66821;2.97343;R;;10591;
+4793786;Le Ici;50.630894;3.060275;R;;10591;
+4794731;"Lil'sushi";50.61956;3.06301;R;;10591;
+4803192;Caliente;50.640373;3.081406;R;;10591;
+4808861;La Cense du Pont;50.5385;3.2676;H;bed_and_breakfast;;
+4809618;La Cour Soubespin;50.64034;3.056003;H;villa;;
+4817767;Le Tourne Bride;50.57544;2.85203;R;;10591;
+4828066;Goolfy;50.65172;2.980899;A;;;attraction
+4832552;Cose Cosi;50.70179;3.216667;R;;10591;
+4847398;"Les Delices De L'Inde";50.63538;3.069278;R;;10591;
+4866875;Golf de Lille Metropole;50.60953;3.10914;A;;;attraction
+4870805;Le grain de folie;50.727173;2.752817;R;;10591;
+4881647;Unami;50.641064;3.066214;R;;10591;
+4883159;"Bar Time's";50.64159;3.06565;A;;;attraction
+4888812;El Montuno;50.70685;3.156658;R;;10591;
+4891235;Le Bistrot de St So;50.627106;3.071861;R;;10591;
+4892149;Le Yokohama;50.63091;3.05807;R;;10591;
+4895427;Sushi Time;50.61828;3.12736;R;;10591;
+4909518;AU Bon Fraisier;50.70367;3.21026;R;;10591;
+4926293;le Mazagan;50.63618;3.02684;R;;10591;
+4939023;Parc Arboretum du Manoir aux Loups;50.76287;3.14531;A;;;attraction
+4951451;"L'Estaminet de L'Abbaye V";50.5308;3.22099;R;;10591;
+4954192;Cimetiere de Roubaix;50.69572;3.19078;A;;;attraction
+4971531;Aux Indes Royal;50.64479;2.973744;R;;10591;
+4975251;Au Gré du Vin et des Saveurs Gourmandes;50.64106;3.06152;A;;;attraction
+4976278;Alto-Post;50.63213;3.08924;R;;10591;
+4979343;La Galiote Restaurant;50.59368;3.130117;R;;10591;
+4991070;Le Clos des Flandres;50.67198;2.82387;H;guest_house;;
+4991766;Villa Cavrois;50.66681;3.16304;A;;;attraction
+4991767;"Canal de la Deûle à l'Escaut";50.70924;3.16775;A;;;attraction
+4996198;"La Ferme de L'Haghedoorn";50.734604;2.697323;R;;10591;
+4997700;Taverne Sainte-Marguerite;50.74021;3.01315;R;;10591;
+5005469;Le Switch;50.63407;3.01999;R;;10591;
+5018963;Quick;50.64694;3.05476;R;;10591;
+5031300;Asian;50.615417;3.125258;R;;10591;
+5038661;"A la Bon'heure";50.63181;3.06298;R;;10591;
+5062020;Parc Mosaic;50.57867;2.9804;A;;;attraction
+5113497;Relais de la Vieille Garde;50.72967;3.0169;H;bed_and_breakfast;;
+5207358;F.B.I;50.63735;3.02457;R;;10591;
+5207501;Les Ecuries de la Marque;50.65287;3.17329;H;bed_and_breakfast;;
+5220462;Dozo;50.66093;3.09597;R;;10591;
+5223376;"L'Hambuscade";50.56816;3.21523;R;;10591;
+5259758;La Guinguette;50.689213;3.236158;R;;10591;
+5259946;Park Inn by Radisson Grand Stade Lille;50.613483;3.133429;R;;10591;
+5260032;Le Pave Gourmand;50.47968;3.237148;R;;10591;
+5260081;Au Roi du Potje Vleesch;50.792973;2.642864;R;;10591;
+5264286;Au Celtique;50.6463;3.05297;R;;10591;
+5269850;Eglise saint pierre saint paul;50.6256;3.0501;A;;;attraction
+5270628;Friterie du Splendid;50.623035;3.090985;R;;10591;
+5322587;Steak N Coffee;50.61567;3.125416;R;;10591;
+5416584;Estaminet Au Saint Bernard;50.44195;3.261528;R;;10591;
+5430241;La Bosse;50.78015;2.73842;R;;10591;
+5461768;Asian Grill;50.552086;3.055597;R;;10591;
+5482429;Villa De Tsing Tao;50.62484;3.04976;R;;10591;
+5482729;Le Vieil Abreuvoir;50.692207;3.172023;R;;10591;
+5501249;Chez Malay;50.640003;3.079697;R;;10591;
+5504522;Dans ma bulle;50.61811;3.17304;A;;;attraction
+5517411;Restaurant La Collegiale;50.55065;3.03001;R;;10591;
+5524642;Australian Memorial Park;50.61627;2.84092;A;;;attraction
+5529604;Au Coin de la Reine;50.53321;3.12626;R;;10591;
+5531641;la machine;50.62277;3.06331;A;;;attraction
+5534023;"Gourmet D'asie";50.63875;2.96954;R;;10591;
+5537403;Le Moulin de Fretin;50.55767;3.133492;R;;10591;
+5540010;"Au Ch'ti";50.66437;3.14536;R;;10591;
+5541388;Le Musee de Plein Air;50.62364;3.18329;A;;;attraction
+5561732;"La Z'Âne Attitude";50.70745;2.96197;A;;;attraction
+5584451;"Harold's Food & Coffee";50.69377;3.167855;R;;10591;
+5584607;"Beffroi de l'Hôtel de Ville";50.62954;3.09971;A;;;attraction
+5584609;Eglise Saint Andre;50.64489;3.05425;A;;;attraction
+5584610;Asnapio;50.63834;3.1565;A;;;attraction
+5587755;Le relais;50.607117;3.059282;R;;10591;
+5594185;85 friterie;50.68935;2.87968;R;;10591;
+5598775;G&Coffee;50.638832;3.061989;R;;9900,9901,9909;
+5600160;"L'Amiral";50.669968;3.128341;R;;10591;
+5601783;La Place;50.636906;3.064049;R;;10591;
+5607118;Casino Barrière de Lille;50.636463;3.077233;A;;;attraction
+5614909;Auberge La Bonne Cote;50.607014;2.952235;R;;10591;
+5616543;Il Viale Ii;50.7717;3.07827;R;;10591,11776;
+5768391;Le Mediterranee;50.71779;3.14404;R;;10591;
+5768668;Le Sambuca Di Sicilia;50.47483;3.233666;R;;10591;
+5777532;CREPERIE AND CO;50.62888;3.06142;R;;9909;
+5778133;Cafe des Nates;50.63219;3.05143;R;;10591;
+5778152;Mezzo di Pasta Lille;50.637814;3.074713;R;;10591;
+5778466;Sogood Wasquehal Pilaterie;50.65267;3.124263;R;;10591;
+5779334;Musée de la Résistance;50.693268;3.086443;A;;;attraction
+5779518;Restaurant Cafe de la Mairie;50.75402;2.64491;R;;10591;
+5779563;LES TONTONS FRITEURS;50.69273;2.86974;R;;10591;
+5779707;La Recre;50.63094;3.04441;R;;10591;
+5779748;"L'Auberge de la Forge";50.6486;3.161388;R;;10591;
+5779831;"Le by S' du Jardin des Geants";50.64322;3.07557;R;;10591,11776;
+5787762;MC FOOD;50.632828;3.042433;R;;10591;
+5790631;Zen wok;50.589443;3.0875;R;;10591;
+5790806;Le Second Empire;50.63379;3.06651;R;;10591;
+5796422;Le Cirque;50.623432;3.054015;R;;11776,10591;
+5796630;Le Ferme Saint Chrysole;50.69415;3.04876;R;;10591;
+5796883;Dwich Yourself;50.64065;3.0674;R;;10591;
+5796918;Piatto di Pasta;50.68987;2.87829;R;;10591;
+5796944;Pizza Pasta;50.62095;3.05227;R;;10591;
+5797019;"O'Berge du Lac";50.590595;3.129551;R;;10591;
+5797044;"Chez l'Ami Cis";50.59499;2.82463;R;;10591;
+5797451;El Camion - Cantina Mexicana;50.639645;3.065256;R;;10591;
+5797453;Tambour Battant;50.67036;3.10427;R;;10591;
+5797458;La TABLE A DINER;50.47532;3.24493;R;;10591;
+5797863;Sogood;50.6827;3.13276;R;;10591;
+5797936;Le Comptoir Volant;50.639736;3.0645;R;;10591;
+5798886;Vivat Factory;50.640045;3.061834;R;;10591;
+5799061;Chez Greg Cantine Mobile;50.63496;3.06074;R;;10591;
+5799264;Cafe de la Mairie;50.64532;3.10137;R;;10591;
+5799331;La Boite a Pizza la Madeleine;50.65105;3.0725;R;;10591;
+5799344;"Le Ch'tit Coin";50.47402;3.241986;R;;10591;
+5799975;La pizzeria;50.77303;3.12248;R;;10591;
+5800180;"Cafe De L'Hotel De Ville";50.62925;3.06859;R;;10591;
+5800203;Le Forest;50.72013;3.12931;R;;10591;
+5800218;La svolta;50.75196;3.15303;R;;10591;
+5800252;Viva Italian Pizza;50.661488;3.055489;R;;10591;
+5800434;Crabe Cerise;50.69667;3.20621;R;;10591;
+5800470;Switch;50.63261;3.04266;R;;10591;
+5800567;Coffee Makers;50.633335;3.067953;R;;9900;
+5800783;"L'Embuscade Cafe Brasserie";50.65205;3.17258;R;;10591;
+5800845;La Petite Cour;50.69377;3.169506;R;;10591;
+5801083;Brasserie des francs;50.71877;3.14023;R;;10591;
+5801243;Auberge du tilleul;50.65101;3.1899;R;;11776,10591;
+5804286;Cake Design By Annie Kone;50.71749;3.08327;R;;10591;
+5804510;Le Village Du Panini;50.61468;3.13868;R;;10591;
+5804635;Chez Loulou;50.67092;2.9058;R;;10591;
+5808678;Le Pekin;50.69203;3.17246;R;;10591;
+5808784;Restaurant la Baie de Hong Kong;50.47056;3.24856;R;;10591;
+5811500;Subway;50.69377;3.089475;R;;10591;
+5812267;La Taverne Villageoise;50.687473;3.053864;R;;10591;
+5813583;Le Colbert;50.62977;3.04572;R;;10591;
+5813599;"McDonald's";50.63689;3.062858;R;;16556;
+5813608;"L'Eau A La Bouche";50.471214;3.231358;R;;10591;
+5813728;"Domino's Pizza";50.63497;3.057281;R;;10591;
+5813737;Restaurant Le Saint Laurent;50.69941;3.21329;R;;10591;
+5825621;Tout & Bon;50.60695;3.16647;R;;10591;
+5825655;La Vigna;50.67178;3.07753;R;;10591;
+5825828;Restaurant Les Lanternes Rouges;50.67645;3.13896;R;;10591;
+5825850;Sandwicherie Made in France Lille;50.63516;3.063124;R;;10591;
+5850239;Restaurant La Tradition;50.63179;3.054697;R;;10591;
+5860436;Le Georges V;50.62972;3.065444;A;;;attraction
+5861535;Autour de Vous;50.640106;3.058228;R;;10591;
+5865790;Norzone;50.584057;3.132159;R;;10591;
+5873569;Au Fut et A Mesure;50.63281;3.053694;R;;10591;
+5887110;"Cafe la Haie d'Auteuil";50.65542;3.09701;R;;10591;
+5888498;Il pasto lesquin;50.59011;3.115462;R;;9900,9909;
+5888666;Brasserie Parent;50.627693;3.061967;R;;10591;
+5888673;La Brioche Doree;50.65009;2.97779;R;;10591;
+5890617;Le Theatre;50.680454;3.137089;R;;10591;
+5895311;McDonalds;50.641964;3.071966;R;;10591;
+5895342;Pizzeria Nono;50.64572;2.987243;R;;10591;
+5895374;"Pizza Pizz'Oh";50.69564;3.16424;R;;10591;
+5895694;L.Zahra;50.76478;3.00429;R;;10591;
+5927813;Efes;50.6263;3.04884;R;;10591;
+5927964;La Bonne Table Du 180;50.710304;3.15945;R;;10591;
+5927998;La Grande Muraille;50.63097;3.06033;R;;10591;
+5932349;King Burger;50.64207;3.10506;R;;10591;
+5943858;Pizzeria Pizza Pai;50.68228;3.21959;R;;10591;
+5949432;"L' Atelier";50.75705;3.1207;R;;10591;
+5951660;"Frit' Grand Stade Lille";50.61286;3.13014;R;;10591;
+5954904;Estaminet le Sainte Cecile;50.71189;2.99854;R;;10591;
+5957321;La Wambrechies;50.688;3.05232;R;;10591;
+5960337;La Frite Doree;50.45136;3.19998;R;;10591;
+5960355;Tulip Inn Lille Grand Stade Residence;50.61261;3.131989;H;hotel;;
+5961626;Patisserie Luc Olivier;50.64039;3.06061;A;;;attraction
+5969390;Pizzeria Zio;50.66745;3.07418;R;;10591;
+5972792;Mezzo Di Pasta;50.63758;3.06409;R;;10591;
+5973006;Le Break;50.72287;3.1498;R;;10591;
+5981541;Flunch;50.581005;3.080717;R;;10591;
+5981600;Le Kiosque a Pizzas;50.60097;3.076712;R;;10591;
+5981635;Pizza Zio;50.6592;3.052038;R;;10591;
+5984806;"L'Oree du Parc";50.66912;3.15359;H;specialty_inn;;
+5986537;Creperie Fleur De Sel;50.66772;3.073699;R;;10591;
+5993444;"L'entre-temps";50.548817;3.030078;R;;10591;
+5997032;Gusto Mio;50.63146;3.06441;R;;10591;
+5999731;"Chambre d'Hôtes Monts et Merveilles";50.793518;2.641213;H;bed_and_breakfast;;
+6001433;"La P'tite place";50.62441;3.04577;R;;10591;
+6016790;La Table du Colysee;50.639053;3.035169;R;;10591;
+6017797;Au 34;50.71979;3.16673;H;condo;;
+6090519;Speed Rabbit Pizza;50.63386;3.0556;R;;10591;
+6103075;Pho 117;50.630074;3.056164;R;;10591;
+6106909;"Restaurant le Gourmet D'asie";50.66447;3.10297;R;;10591;
+6121481;Le Set;50.6446;3.0601;R;;10591;
+6131952;"Le Ch'ti Charivari";50.667435;3.143651;R;;10591;
+6166986;La Laiterie;50.64;3.033092;R;;10591;
+6199554;Eau Dela;50.69246;3.0527;A;;;attraction
+6208012;"Royal d'Asie";50.577145;3.082078;R;;10591;
+6208344;Bloempot;50.637985;3.058105;R;;10591;
+6209227;La Consigne;50.62496;3.069707;R;;10591;
+6211236;Les Ptiots;50.64236;3.066338;R;;10591;
+6350838;Boudabar Bu;50.63443;3.040714;R;;10591;
+6351352;Estaminet des Tournesols;50.47359;3.3009;R;;10591;
+6366334;La Friterie de la Rouge Porte;50.78461;3.13923;R;;10591;
+6366517;Mme Yum Yum;50.638157;3.066586;R;;10591;
+6368337;"L'union Fait la Sauce";50.71119;3.165143;R;;10591;
+6373426;Le Jb’s Pub;50.690674;3.173286;R;;10591;
+6378684;IL Bacaro;50.695145;3.164479;R;;11776,10591;
+6378685;Chez Charlotte;50.69462;3.16449;R;;10591;
+6384339;Maison de la Photographie;50.63233;3.08505;A;;;attraction
+6385951;Le Bugatti;50.6275;3.06977;R;;10591;
+6386858;Pizza Hut Lomme;50.651337;2.983688;R;;10591;
+6400774;"L'Engrenage Brasserie";50.511642;3.141275;R;;10591;
+6405152;Byblos Restaurant;50.63331;3.059401;R;;10591;
+6409053;Le Relais de la Dentelle;50.70955;2.65027;H;guest_house;;
+6417428;Deutscher Soldatenfriedhof Haubourdin;50.604595;2.993164;A;;;attraction
+6417429;Deutscher Soldatenfriedhof Beaucamps;50.60472;2.91679;A;;;attraction
+6417430;Deutscher Soldatenfriedhof Fournes-en-Weppes;50.58417;2.88919;A;;;attraction
+6418600;Au Cheval Blanc;50.62517;3.04863;R;;10591;
+6419079;Friterie des Lilas;50.63912;3.086732;R;;10591;
+6426578;Au 14;50.69355;3.17987;H;pension;;
+6427444;Creperie du Kreizker;50.676003;3.090546;R;;10591;
+6428608;La Parenthèse;50.68816;3.03528;H;guest_house;;
+6428889;Le Court Debout;50.633003;3.063485;R;;10591;
+6429690;Royal Couscous;50.68033;3.08369;R;;10591;
+6434859;Le Manoir de Marcq;50.693897;3.124181;R;;10591;
+6435045;Don Mario;50.58154;3.04474;R;;10591;
+6435047;"L'Ambassadeur";50.61977;3.0511;R;;10591;
+6449747;RESTAURANT LE LABO;50.61061;3.13754;R;;10591;
+6456823;"MacLaren's";50.63234;3.055338;R;;10591;
+6468793;"Chambres d'Hôtes Aux Petits Bonheurs";50.636326;2.706207;H;bed_and_breakfast;;
+6473044;Eglise Saint Vincent de Paul;50.61903;3.07069;A;;;attraction
+6494501;Les Roselieres;50.63934;3.02053;R;;10591;
+6494518;Le Leu Pindu;50.500916;3.049577;R;;10591;
+6494533;Le Dracir;50.63788;3.06604;R;;10591;
+6508866;Le Bistrot des Saisons;50.64391;3.14772;R;;10591;
+6509796;Un Chien Dans un Jeu de Quilles;50.69886;3.132403;R;;10591;
+6522713;Couvent Des Minimes Restaurant;50.638184;3.055088;R;;10591;
+6528748;Pizza pai;50.58075;3.083561;R;;10591;
+6534497;Gur Kebab;50.72417;3.15699;R;;10591;
+6538579;Fromelles and Flanders Battlefield Tours;50.64697;3.00162;A;;;attraction
+6538781;Le Grand Mix;50.725;3.15491;A;;;attraction
+6541522;Subway Stade Pierre Mauroy;50.6103;3.130881;R;;10591;
+6542439;"Au Pho Ly's";50.627148;3.057119;R;;10591;
+6550916;Bistrot Tao;50.633186;3.064887;R;;10591;
+6561535;Centre Equestre le Comte;50.656364;3.171309;A;;;attraction
+6561580;Pizza Pai;50.73796;3.13464;R;;10591;
+6581194;Big Fernand Lille Centre;50.632957;3.062646;R;;16556;
+6584279;Le Bellevue;50.5678;3.21586;R;;10591;
+6591527;Balades en Nord;50.5901;3.04265;H;;;
+6599550;"L'escale";50.53194;2.80895;R;;10591;
+6603342;Les Domaines Qui Montent;50.636036;3.059313;R;;10591;
+6608362;Joe Tex Cafe;50.63925;3.06492;R;;11776,10591;
+6611686;Maison Doucet;50.62682;3.04816;R;;9901;
+6627166;"L'atelier";50.63952;3.06459;A;;;attraction
+6652175;Zocolata - Bar a Chocolat;50.63517;3.06326;R;;10591;
+6662008;Maison de la Chicoree;50.47261;3.24358;A;;;attraction
+6664570;Sushi Boutik Croix;50.6745;3.14569;R;;10591;
+6672509;Aux Epherites;50.6297;3.061335;R;;10591;
+6673128;Zozan;50.60661;3.07708;R;;10591;
+6679645;Le Fresnoy - Studio National des Arts Contemporains;50.69991;3.15588;A;;;attraction
+6684363;UGC Cine Cité;50.633957;3.063349;A;;;attraction
+6684570;Manhattan Cafe;50.6467;3.05723;A;;;attraction
+6695076;"Campanile Lille Est - Villeneuve d'Ascq";50.63856;3.14855;R;;10591;
+6697544;Campanile Restaurant;50.6938;3.17201;R;;10591;
+6697870;Cafe du Bois;50.637173;3.056865;R;;10591;
+6699627;Au Lion des Flandres;50.58871;3.10244;R;;10591;
+6702338;Starship Laser;50.65338;2.98126;A;;;attraction
+6702383;"Le P'tit Braz";50.64058;3.06012;R;;10591;
+6703075;La table epicee;50.72302;3.17133;R;;10591;
+6703148;En K2 Faim Restaurant;50.75243;3.16677;R;;10591;
+6703351;Campanile Lille Wasquehal Restaurant;50.68937;3.128524;R;;10591;
+6717616;"McDonald's";50.650597;2.984266;R;;10591;
+6725564;Site du Bataille de Bouvines;50.56816;3.21514;A;;;attraction
+6733408;Pizza Gege;50.68873;2.90164;R;;10591;
+6735423;"L'Art'doise";50.641125;3.061668;R;;10591;
+6736942;Madame Bistro;50.63592;3.059583;R;;10591;
+6777339;Cani-Parc;50.65848;3.02079;A;;;attraction
+6777367;Studio Zen Concept;50.636806;3.06803;A;;;attraction
+6779588;pasta ghetti;50.53128;2.80335;R;;10591;
+6816687;Eauzone Spa;50.710663;3.145341;A;;;attraction
+6825485;La Ferme Marcel Dhénin;50.63789;3.0805;A;;;attraction
+6845094;La Bascule;50.52688;3.16859;R;;10591;
+6847194;Rouge Barre;50.644314;3.059492;R;;10591;
+6870879;Restaurant Le Comte;50.656002;3.170611;R;;10591;
+6872085;Italia Pizza;50.6255;3.11437;R;;10591;
+6872390;La Boite à Rire;50.62835;3.05176;A;;;attraction
+6873408;Cafeine Coffee;50.6404;3.060811;R;;9900;
+6876806;Église de Bouvines;50.57971;3.18721;A;;;attraction
+6885818;"Le Bar a Becq'ter";50.747993;3.118665;R;;10591;
+6890312;Baristo;50.632652;3.052288;R;;10591;
+6895067;Crescendo restaurant;50.549915;3.053867;R;;10591;
+6899572;PADEL SENSATION;50.64332;3.12449;A;;;attraction
+6908445;Moog analogic bar;50.63258;3.05404;A;;;attraction
+6909867;Souvenirs Lille;50.63697;3.064;A;;;attraction
+6913266;La Marmite de Maite;50.61122;2.96884;R;;10591;
+6924198;"l'Adresse";50.637848;3.058362;R;;10591;
+6938329;La Taverne des Layes;50.652267;2.837697;R;;10591;
+6943021;Le Broc du Vieux-Lille;50.641384;3.065116;R;;10591;
+6956875;Le Zen;50.55211;3.051266;R;;10591;
+6959724;Chez Cyrille;50.67187;3.18395;R;;10591;
+6960888;Domaine Napoleon;50.54503;3.044465;A;;;attraction
+6960936;Magazine Club;50.68749;3.17335;A;;;attraction
+6962021;3 Brasseurs Englos;50.628647;2.967863;R;;10591;
+6962404;Clarins Spa & Lunch;50.63555;3.058631;A;;;attraction
+6982074;KFC;50.65212;3.12408;R;;16556;
+6984565;Kfc Faches Thumesnil;50.58593;3.08682;R;;16556;
+6985527;La Guinguette de la Marine;50.687183;3.054047;R;;10591;
+7003947;Le Windsor;50.636578;3.06228;A;;;attraction
+7019967;Le Petit Musée de la gaufre;50.6912;2.90943;A;;;attraction
+7045264;Backhouse lille;50.64219;3.065985;R;;10591;
+7045651;Le Grill du Moulin;50.607643;2.956901;R;;10591;
+7049607;Les Epicuriens;50.63207;3.053;R;;10591;
+7067983;La Garenne;50.60989;3.02077;R;;10591;
+7077116;VITA form Fitness Club;50.62756;3.05026;A;;;attraction
+7077873;LE BEAU BOURG;50.64568;2.98744;R;;10591;
+7078636;Au Bradford;50.71645;3.14666;R;;10591;
+7093831;Stages Photo Lille;50.62423;3.04608;A;;;
+7094722;"L'Epi de Ble";50.73933;2.73412;R;;9900,9909;
+7097423;La Gare Saint Sauveur;50.62623;3.06845;A;;;attraction
+7101035;Sushi Go Round;50.650295;2.975421;R;;10591;
+7106298;Salade de Fruits;50.63467;3.06559;R;;10591;
+7108755;Au Bison Blanc;50.58784;3.10524;R;;10591;
+7113547;"Bureau d'Art et de Recherche";50.69506;3.1651;A;;;attraction
+7117221;Fort de Seclin;50.556145;3.053364;A;;;attraction
+7119400;"L'Auberge";50.75362;2.640417;R;;10591;
+7132211;Restaurant La Bodega;50.6259;3.05656;R;;10591;
+7139395;Maître Georges;50.62601;3.0636;A;;;attraction
+7140064;OspaO;50.669186;3.017825;A;;;attraction
+7142151;Acropolis Centre De Loisirs;50.55232;3.05399;A;;;attraction
+7147139;Bread and Burger;50.66777;3.14264;R;;10591;
+7147591;Nefertiti;50.637283;3.068768;R;;10591;
+7152987;Subway;50.651012;2.982962;R;;10591;
+7154771;Les Fins Gourmets Aveyronnais;50.64055;3.06061;R;;10591;
+7161082;"L'Assiette des Anges";50.711857;2.999414;R;;10591;
+7162500;MUbacafe by Paradoxe;50.723522;3.162055;R;;10591;
+7171613;La Table du 64;50.65359;3.14116;R;;10591;
+7174276;"Cimetière de l'Est";50.64613;3.08022;A;;;attraction
+7177846;Cafe de la Mairie;50.70012;2.77731;R;;10591;
+7178926;Volupto Spa;50.58749;3.07813;A;;;attraction
+7178932;Le Bar à Thym;50.63137;3.04951;A;;;attraction
+7183119;"Oh Gourmand'in";50.6384;3.06498;R;;10591;
+7188196;One Life;50.64077;3.05913;A;;;attraction
+7199738;Escale Thai;50.64301;3.067183;R;;10591;
+7203983;Le Bistrot du Chti;50.62821;3.136724;R;;10591;
+7206832;Le Palacium;50.62662;3.13425;A;;;attraction
+7208858;Le Cheval Blanc;50.51677;3.01747;R;;10591;
+7209576;Folie Douce;50.63657;3.07699;R;;10591;
+7210509;Network Cafe;50.63258;3.05404;A;;;attraction
+7211341;Maison Folie Wazemmes;50.62495;3.04798;A;;;attraction
+7211502;Planet Sushi (Lille Bettignies);50.64101;3.06515;R;;10591;
+7211588;Les Cottages du Parc;50.70131;3.16344;A;;;attraction
+7213532;Le Shuriken;50.63017;3.05705;R;;10591;
+7214670;Friterie Cappelloise;50.50795;3.17108;R;;10591;
+7217086;Wok Mille Saveurs;50.61922;3.10103;R;;10591;
+7218420;Spa Rive Droite;50.665916;3.063259;A;;;attraction
+7218515;McArthurGlen Roubaix;50.69004;3.180686;A;;;attraction
+7219749;Le Flandre;50.62129;3.03538;R;;10591;
+7220912;Le Privilège;50.638996;3.058644;A;;;attraction
+7220918;Macondo;50.62709;3.05724;A;;;attraction
+7226379;La Maison Commune;50.76349;2.721929;R;;10591;
+7231628;La Cantine;50.69343;3.019861;R;;10591;
+7236581;Gur Kebab Drive Leers;50.66763;3.24046;R;;10591;
+7236714;Padel Attitude;50.58863;3.09836;A;;;attraction
+7241473;"L'Original";50.64453;3.0578;R;;10591;
+7243709;Courtepaille;50.6363;2.967301;R;;10591;
+7251886;Le Pacha;50.69012;2.87649;R;;10591;
+7258773;Restaurant e Zen Lille;50.63384;3.020778;R;;10591;
+7259199;King Pizza;50.64207;3.10506;R;;10591;
+7260022;Le Cafe des Six Roses;50.63107;3.05229;R;;10591;
+7261568;Le So Bar;50.639145;3.060644;A;;;attraction
+7262322;El Djenina;50.63785;3.06967;R;;10591;
+7264108;"Beaut'Elégance";50.69993;3.13738;A;;;attraction
+7269314;Pizzeria Di Oggi;50.61579;3.12794;R;;10591;
+7269317;Cesar Ristorante;50.656944;3.147778;R;;10591;
+7272237;Aux Anges;50.60367;3.06867;A;;;attraction
+7283187;Le Masala Street;50.630943;3.055583;R;;10591;
+7285664;Les Salons de Felix;50.4279;3.31961;R;;10591;
+7285900;Le Palais Imperial;50.62974;3.05787;R;;10591;
+7304476;Via Caro;50.65109;3.034063;R;;10591;
+7305398;Speed Kebab;50.68807;3.17426;R;;10591;
+7305535;Urban Bar;50.63293;3.063442;A;;;attraction
+7306323;Le Pekin;50.63622;3.06863;R;;10591;
+7312384;Les Tables et Salons du Dronckaert;50.74397;3.13527;R;;10591;
+7313348;URace Racing Simulators;50.65329;2.98225;A;;;attraction
+7313397;"So'Delice";50.60993;3.22968;R;;10591;
+7316833;Estaminet des Trolls et petits lutins;50.62606;3.066315;R;;10591;
+7316922;Miniz;50.63822;3.079209;R;;10591;
+7340133;Lebon Bistrot;50.62811;3.061514;R;;10591;
+7340260;Le Pre Vert;50.67138;3.16004;R;;10591;
+7345800;Sushi Boutik Hoover;50.62902;3.07757;R;;10591;
+7346862;Chez Bacchus;50.624264;3.054779;R;;10591;
+7350097;La Fringale;50.65972;3.13578;R;;10591,11776;
+7360067;Le Farafina;50.62923;3.05883;A;;;attraction
+7362344;Star Fun;50.551624;3.052422;A;;;attraction
+7366155;Chiyoda;50.673164;3.145656;R;;10591;
+7368698;Le Petrouchka Cabaret;50.64105;3.057076;R;;10591;
+7369192;Au coin gourmand;50.68673;3.16831;R;;10591;
+7392618;Ibis Lille Centre Grand Palais Hotel;50.633244;3.074364;H;hotel;;
+7591622;Truva Kebab;50.64311;3.05959;R;;10591;
+7591782;La Fleur de Houblon;50.526794;3.168907;R;;10591;
+7592178;Cafe de la Place;50.54032;3.12795;R;;10591;
+7592205;Tel Pizza;50.6177;3.02807;R;;10591;
+7603785;My Kebab;50.72546;3.14343;R;;10591;
+7603920;Guesthouse Kathome;50.69405;3.08922;H;cottage;;
+7605084;"L'Ardoise";50.63734;3.12335;R;;10591;
+7609734;La Mezza Restaurant;50.64225;3.061253;R;;10591;
+7609738;Fast Burger;50.699;3.17266;R;;10591;
+7613455;Sushi Chiwa;50.636826;3.068275;R;;10591;
+7617202;Kilometre 200;50.70675;3.100076;R;;10591;
+7619384;"L'Expresso";50.67862;3.1765;R;;10591;
+7619485;"L'ilot Bar";50.63042;3.04724;R;;10591;
+7622681;Le Melusine;50.73963;2.73539;R;;10591;
+7650598;Les Ecuries de Douvrin;50.512363;2.832948;R;;10591;
+7683719;"LE MOULIN D'OR";50.63773;3.064197;R;;10591;
+7686546;"L'Arena";50.63151;3.00794;R;;10591,11776;
+7686915;Road Bazaar;50.64181;3.05365;R;;10591;
+7687617;Musée Benoît-De-Puydt;50.74067;2.73442;A;;;attraction
+7693478;L Alimentation Restaurant De L Oiseau Mouche;50.69084;3.188695;R;;10591;
+7695040;Del Arte;50.61442;3.12495;R;;10591;
+7695614;"Poz'midi";50.61178;3.07495;R;;10591;
+7711838;Le Point Fix;50.64622;3.220753;R;;10591;
+7712632;Les Gourmets du Croise;50.66161;3.104336;R;;10591;
+7714727;"L'Irlandais";50.63096;3.05509;R;;10591;
+7715334;Aux Quatre Chemins;50.57665;2.85446;R;;10591;
+7720980;Luzi Pizza;50.615772;3.234594;R;;10591;
+7722992;Burger King;50.638462;3.074239;R;;16556;
+7723140;La Ferme des Hirondelles;50.55718;3.13035;R;;10591;
+7724546;Dolce Ristorante Hallennes;50.607193;2.957766;R;;10591;
+7737785;"Louis' Burger Bar";50.6352;3.06714;R;;10591;
+7740478;le charolais;50.69283;3.16991;R;;10591;
+7747590;La Calabria;50.71237;3.17547;R;;10591;
+7762248;Clarance Hotel;50.63889;3.056871;H;hotel;;
+7766556;Restaurant Inesis Golf Park;50.688557;3.10454;R;;10591;
+7785234;"O'Mulligans";50.67428;3.094864;R;;10591;
+7789628;Le Push;50.64448;3.03672;R;;10591;
+7834326;JaJa;50.64401;3.058532;A;;;attraction
+7837433;Cafe Jean;50.69273;3.1879;R;;10591;
+7898882;"Frite ch'timi";50.644955;3.0131;R;;10591;
+7900613;Au Bureau;50.636654;2.969038;R;;10591;
+7905567;Cimetière Militaire Portugais;50.573532;2.775955;A;;;attraction
+7908868;Le Jaja;50.64403;3.05849;R;;10591;
+7910694;Fresh Burritos Lille Bethune;50.63346;3.063038;R;;10591;
+7913100;Rockstar Café Bar;50.64379;3.058567;A;;;attraction
+7928400;La Table - Clarance Hotel Lille;50.63889;3.056949;R;;10591;
+7929083;"L'Estanco";50.62593;3.045894;R;;10591;
+7935439;La Cour du Roy;50.68132;2.92305;H;guest_house;;
+7935929;Ô Spa Danaé;50.6307;3.057243;A;;;attraction
+7939050;"L'Anna Maria Chambres d'Hôtes";50.63814;2.713569;H;bed_and_breakfast;;
+7952061;Rumours Resto Baroque;50.60625;2.957437;R;;10591;
+7954257;Les Partisans du Gout;50.682167;3.08285;R;;10591;
+7984714;Art to Be Gallery;50.64421;3.058295;A;;;attraction
+7991489;Restaurant Le Bettigny;50.642704;3.063342;R;;10591;
+7991609;Le Concept;50.74002;2.73692;R;;10591;
+7991971;Le Nouvel Atelier;50.64589;3.076944;R;;10591;
+7992080;La Friterie;50.68885;2.90273;R;;10591;
+8006970;Nooi Lesquin;50.58103;3.11698;R;;10591;
+8007589;Sowaï;50.68688;3.06137;A;;;attraction
+8008888;Le Triporteur;50.623047;3.064167;R;;10591;
+8014917;"l'Emilpates";50.62829;3.06062;R;;10591;
+8015012;Unik Kebab;50.61971;3.06715;R;;10591;
+8015446;Le Touret Military Cemetery and Memorial;50.56026;2.72472;A;;;attraction
+8023872;La Guinguette;50.69225;2.8722;R;;10591;
+8026987;Cinema Les Lumieres;50.68184;2.87807;A;;;attraction
+8036023;O Concert Restaurant;50.642338;3.060833;R;;10591;
+8040765;Cafe Francais;50.78094;2.739926;R;;10591;
+8054617;Auberge St Hubert;50.78226;2.69579;R;;10591;
+8066667;"L'estaminet Lillois";50.638668;3.057629;R;;10591;
+8068449;Le Diwan;50.620827;3.051496;R;;10591;
+8092244;Eglise Saint-Christophe;50.72179;3.15887;A;;;attraction
+8092368;Izmir Kebab;50.53164;2.80582;R;;10591;
+8107959;A Fleur de Peau;50.54998;2.86797;A;;;attraction
+8114634;Sun & Spa;50.682148;2.882104;A;;;attraction
+8117535;Le Morisson;50.63473;3.06084;R;;10591;
+8119145;Le Capricorne;50.662907;3.056717;R;;10591;
+8128329;EXKi;50.6146;3.126214;R;;10591;
+8133211;Estaminet de la ferme aux oies;50.685932;3.10135;R;;10591;
+8140227;Laeti Delices;50.607426;2.956609;R;;10591;
+8153747;Le Saint Charles;50.66208;3.07082;R;;10591;
+8261592;La Dondaine;50.39671;3.281333;R;;10591;
+8278902;Le Petit Chai;50.65615;3.09016;R;;10591;
+8284904;Le Picardy;50.60913;2.98319;R;;10591;
+8288696;Seasons Cafe;50.63607;3.059316;R;;10591;
+8297060;"McDonald's";50.63468;2.71896;R;;16556;
+8297173;"McDonald's";50.69135;2.870099;R;;16556;
+8297250;"McDonald's Tourcoing";50.725883;3.132827;R;;16556;
+8297350;"McDonald's";50.59666;3.050858;R;;10591;
+8297443;"McDonald's";50.681976;3.128177;R;;10591;
+8297469;"McDonald's";50.63269;3.062163;R;;16556;
+8297699;"McDonald's";50.66534;3.076386;R;;16556;
+8298070;"Domino's Pizza";50.666424;3.075957;R;;10591;
+8305155;"McDonald's";50.693413;3.205906;R;;10591;
+8309012;"McDonald's";50.66958;3.153623;R;;10591;
+8317323;Dernier Bar avant la Fin du Monde;50.63735;3.061431;A;;;attraction
+8320175;Bubble Bar;50.63631;3.06639;R;;10591;
+8327081;Restaurant Campanile Lille - Euralille;50.64549;3.072184;R;;10591;
+8328629;Saigon 2;50.613976;3.062528;R;;10591;
+8366495;Miye;50.69293;3.17025;R;;10591;
+8366532;"I'taglia Lille Tanneurs";50.63467;3.06559;R;;10591;
+8373193;Au Rassemblement;50.602234;3.039327;R;;10591;
+8384246;Bowling Van Gogh;50.623226;3.133849;R;;10591;
+8384972;"Delices D'asie";50.61639;3.13366;R;;10591;
+8390449;Conservatoire botanique national de Bailleul;50.75022;2.75992;A;;;attraction
+8394101;Chapitre VI;50.527103;3.170678;R;;10591;
+8398447;Le flandre;50.5497;3.02942;R;;10591;
+8399512;AviaSim Lille;50.636482;3.062148;A;;;attraction
+8405060;Poivre Et Sel;50.53512;2.95085;R;;10591;
+8408467;Snack Lusitanos;50.67854;3.06376;R;;10591;
+8416752;Chez Lucile;50.629963;3.23803;R;;10591;
+8419186;Le Saint Hubert ancien nom ( La croix ou pile );50.4557;3.28893;R;;10591;
+8420633;Parc du Palais de Justice;50.68995;3.16527;A;;;attraction
+8428559;Parc Barbieux;50.676807;3.162334;A;;;attraction
+8441648;Grpf_Rest  Hippo Gestion Et Cie;50.637047;3.065173;R;;10591;
+8446744;"Auberge T'hommelhof";50.783817;2.710018;R;;10591;
+8447386;"L'Endroit Brasserie";50.63513;3.05727;R;;10591;
+8448824;Jardin de Jade;50.550465;3.029299;R;;10591;
+8452363;Fee Maison;50.65253;3.18725;R;;10591;
+8457032;speed Kebab;50.65987;3.07372;R;;10591;
+8461765;Gourmet Bar;50.634426;3.073947;R;;10591;
+8461799;La Flamme - Brasserie Maison;50.583393;3.092857;R;;10591;
+8461809;La Terrasse des Flandres;50.75694;3.162687;R;;10591;
+8465631;Le Happy;50.63665;3.05985;R;;10591;
+8466462;Sazanka;50.652637;3.082583;R;;10591;
+8471902;Wal’nord Tourisme;50.63825;3.050651;A;;;attraction
+8474693;Pic-Nic;50.61522;3.1544;R;;10591;
+8478204;Salle des Batailles;50.478554;3.101365;A;;;attraction
+8483318;Opera Delices;50.636894;3.064381;R;;10591;
+8499662;Un Coin De Paradis;50.63318;3.07483;R;;10591;
+8501288;"O'Z Artistes";50.65102;3.06912;R;;10591;
+8520921;"La P'Tite Fourchette";50.62669;3.04858;R;;10591;
+8525988;"Pata Pata Villeneuve d'Ascq";50.66801;3.14258;R;;10591;
+8527317;"Office de Tourisme Coeur de Flandre - Bureau d'Information Touristique de Bailleul";50.73925;2.73532;A;;;attraction
+8528120;Mezzo di Pasta;50.63758;3.06409;R;;10591;
+8532195;Lys Aventure;50.76629;3.04762;A;;;attraction
+8534608;Pita Pit;50.63239;3.05485;R;;10591;
+8538445;"McDonald's";50.521313;2.793896;R;;10591;
+8538446;"McDonald's";50.640404;3.144892;R;;10591;
+8547259;"St. Mary's A.D.S. Cemetery";50.48575;2.789056;A;;;attraction
+8547765;Eatandyou;50.64637;3.07627;R;;10591;
+8551682;Le Galopin;50.62636;3.0474;R;;10591;
+8555897;Guards Cemetery Windy Corner;50.52954;2.741821;A;;;attraction
+8555910;Ninth Avenue Cemetery;50.483932;2.789006;A;;;attraction
+8564361;Place aux Oignons;50.64091;3.06152;A;;;attraction
+8570914;Le Bistrot de La Reine;50.640854;3.05925;R;;10591;
+8573389;Le B-Routh;50.63235;3.04276;R;;10591;
+8587335;La Trattoria Karaoke;50.62295;3.06297;R;;10591;
+8591315;Vieux Istanbul;50.64177;3.06569;R;;10591;
+8592956;La Brocantine;50.56841;3.219622;R;;10591;
+8596671;Atomic Rabbit;50.642193;3.064748;R;;11776,10591;
+8598968;Taho et Lina;50.572094;3.07409;A;;;attraction
+8603422;Les Salons Kennedy;50.6629;2.898491;R;;10591;
+8608401;"Hammam l'Alhambra";50.685997;3.187275;A;;;attraction
+8610660;Les Compagnons des Saisons;50.653545;3.139244;R;;10591;
+8613125;La Faluche;50.63355;3.0444;R;;10591;
+8624129;Aux Haricots;50.62846;3.05198;R;;10591;
+8632681;Le Tandem;50.631413;3.235983;R;;10591;
+8650996;Flunch;50.680767;3.220198;R;;16556;
+8651181;Flunch;50.737423;3.134636;R;;16556;
+8655233;Pizzeria Del Corso;50.73386;3.14512;R;;10591;
+8656208;"L'escapade";50.61688;3.14155;R;;10591;
+8660853;La Belle Fontaine;50.69114;3.16257;R;;10591;
+8672936;"Lasécu Espace d'Art Contemporain";50.63114;3.08948;A;;;attraction
+8674228;Brasserie Lepers;50.66595;2.87272;A;;;attraction
+8677602;Fast Pizza;50.60732;3.05906;R;;10591;
+8684243;La Pause;50.612568;3.131922;R;;10591;
+8695110;La Nouvelle Aventure;50.62699;3.048574;R;;10591;
+8695922;"La P'tite Pause";50.6294;3.0547;R;;10591;
+8708026;Stephanie;50.669937;3.131653;R;;10591;
+8727193;Pronto Pizza;50.6341;3.067536;R;;10591;
+8731231;Dolce;50.70163;3.134929;R;;10591;
+8731680;"Espace Zen'ing";50.562035;2.969223;H;villa;;
+8732802;Fleur de Lys;50.6667;3.076019;R;;10591;
+8733882;Stéréo Club;50.62997;3.05582;A;;;attraction
+8734319;Restaurant Charly;50.695118;3.164053;R;;10591;
+8743626;Hon Du;50.66738;3.07488;R;;10591;
+8746766;La Dioza;50.691;3.17571;R;;10591;
+8753629;"Domino's Pizza";50.725098;3.156441;R;;10591;
+8756131;Angkor;50.64197;3.0852;R;;10591;
+8757445;Croque-Francois;50.633194;3.062117;R;;16556;
+8758569;X Scape Lille;50.634274;3.056346;A;;;attraction
+8765784;Chez Xav;50.633846;3.055206;R;;10591;
+8769395;La Bulle Du 27;50.693302;3.16715;R;;10591;
+8769554;Au Saint Hubert;50.537895;2.922475;R;;10591;
+8770001;Meziane;50.6864;3.21094;R;;10591;
+8773474;Oushiza;50.72201;3.156977;R;;10591;
+8779678;"D'angele";50.62623;3.15034;R;;10591;
+8781700;Side Kafe;50.65778;3.07939;R;;10591;
+8781740;Keb Way;50.69165;3.17531;R;;10591;
+8784094;Le Club;50.69216;3.17598;R;;10591;
+8789051;Le Beffroi;50.637596;3.064265;R;;10591;
+8790167;Climb Up;50.582603;3.09451;A;;;attraction
+8790952;"Pauzéine - l'Empreinte du bien-être";50.71452;3.15404;A;;;
+8794619;CrossFit Cestio;50.63685;3.09753;A;;;
+8797146;"Clip'n Climb";50.58261;3.09451;A;;;attraction
+8798290;La Terrasse;50.646652;2.716096;R;;10591;
+8799739;Brasserie Cambier;50.6781;3.14036;A;;;attraction
+8808830;Le Vieux Fournil;50.64371;2.72549;R;;10591;
+8814343;John Doe Escape Game;50.638817;3.06851;A;;;attraction
+8817324;Au 27;50.56987;3.05497;R;;10591;
+8817383;Team Break Lille;50.6351;3.061839;A;;;attraction
+8818973;Side Kebab;50.63912;3.05865;R;;10591;
+8828364;Le Couscous;50.62754;3.050255;R;;10591;
+8829688;Kisoro;50.632706;3.063783;R;;10591;
+8855765;Ferme De La Noyelle;50.58853;3.18036;R;;10591;
+8856872;Le Bistrot Dit Vin;50.60765;2.853866;R;;10591;
+8856939;B&S Restaurant;50.70571;2.88428;R;;10591;
+8862020;Sicily Pizza;50.59111;3.118305;R;;10591;
+8866891;Yun Cang Ge;50.63373;3.06148;A;;;attraction
+9192539;Brasserie Le Saint Maur;50.65211;3.08159;R;;10591;
+9458991;Les 3 Toques;50.56102;2.901506;R;;10591;
+9465669;Stab Velodrome;50.680126;3.20476;A;;;attraction
+9561255;Pizza Nostra;50.65864;3.19355;R;;10591;
+9561722;Mon Petit Thai;50.62868;3.052499;R;;10591;
+9564659;"L'Assiette Thai";50.630466;3.057137;R;;10591;
+9564662;Dina;50.63981;3.01953;R;;10591;
+9565271;Notting Hill Coffee;50.63499;3.06442;R;;9900;
+9566722;Beerstro;50.643154;3.060643;R;;11776,10591;
+9580239;Som Tam Thai;50.689117;3.160166;R;;10591;
+9589903;Le Bistro;50.549137;3.02904;R;;10591;
+9592801;Faim 2 Nuit;50.61688;3.14155;R;;10591;
+9598507;Spotlight;50.63042;3.05682;R;;10591;
+9601629;Le Nil;50.63765;3.06942;R;;10591;
+9606121;Zaza - Kanny;50.51985;2.79067;R;;10591;
+9606192;La Casa Bianca;50.586357;3.087922;R;;10591;
+9607986;Cafe Chez Salah;50.70655;3.1695;R;;10591;
+9610079;Sweet Flamingo;50.629547;3.06132;R;;10591;
+9681861;Resto’coyote;50.45943;3.28544;R;;10591;
+9707431;"Le Bistrot d'Arnaud";50.69087;2.874516;R;;10591;
+9714831;Rocambole;50.674274;3.129819;R;;10591;
+9721655;BCHEF Lille;50.63539;3.06677;R;;16556;
+9731701;Barabbas;50.61118;2.99356;R;;10591;
+9735336;"L'Embuscade";50.64688;3.05803;R;;10591;
+9753670;Soho Urban Food;50.63805;3.066079;R;;10591;
+9754654;Le Chti Long;50.63166;3.06403;R;;10591;
+9758114;Le Concept;50.6343;3.06115;R;;10591;
+9765627;Mama Kitchen caffe;50.638706;3.074444;R;;10591;
+9768718;Break Fast;50.689346;3.11428;R;;10591;
+9768753;Caldo;50.66889;3.13306;R;;10591;
+9777703;Friterie Du Port;50.72347;2.95064;R;;10591;
+9785378;La Pizza Des Anges;50.69776;2.85638;R;;10591;
+9794469;Mytandem;50.5865;3.10797;A;;;attraction
+9794730;Stand Up Paddle Lille Le Grand Huit;50.63709;3.047726;A;;;attraction
+9795290;Le Caf & Diskaire;50.63031;3.04508;R;;10591;
+9796642;Subway;50.68609;2.882642;R;;10591;
+9798021;Tramway Touristique de la Vallée de la Deule;50.677742;3.06016;A;;;attraction
+9800819;Bonita Esthetique;50.70307;3.21884;A;;;attraction
+9800831;B&B HOTEL Lille Roubaix Campus Gare;50.695663;3.163952;H;hotel;;
+9802902;Ligne et Beaute;50.53394;3.10593;A;;;attraction
+9817601;"McDonald's Halluin";50.770996;3.126191;R;;10591;
+9825335;Sympa La Pause;50.585297;3.123992;R;;10591;
+9829626;Boulangerie Brice;50.66589;3.07256;R;;9901;
+9834380;Le Gains;50.67733;3.17694;R;;10591;
+9857565;Miss Daisy;50.71182;3.23847;R;;10591;
+9881486;Express Food;50.77136;3.0459;R;;10591;
+9989980;Allo-Pizza Lille;50.63414;3.06748;R;;10591;
+9993982;La Pevele Da Lorenzo;50.4804;3.09867;R;;10591;
+10000716;UGC Cine Cite;50.61763;3.12516;A;;;attraction
+10004710;"L' Estrade Restaurant";50.69066;3.162083;R;;10591;
+10004715;Cook and Go;50.64428;3.13424;A;;;attraction
+10004726;SpaCenter;50.63267;3.06502;A;;;attraction
+10026491;Reste Au Bar;50.64162;3.06568;R;;10591;
+10028923;"O'tacos";50.63256;3.09207;R;;16556;
+10029543;Tasty Restaurant Indien;50.632084;3.043075;R;;10591;
+10032142;Apsara Thai Spa;50.63773;3.06044;A;;;attraction
+10032197;La terrasse de wasquehal;50.67024;3.122664;R;;10591;
+10032550;Cafe-restaurant du LaM;50.6375;3.14859;R;;10591;
+10032572;La Guesthouse;50.63865;3.085074;H;bed_and_breakfast;;
+10039983;Ibis Kitchen Restaurant  Centre Lille Gares;50.63469;3.0708;R;;10591;
+10041338;Le Masala Street V2;50.615795;3.127222;R;;10591;
+10046219;Le comptoir Bistrot & vins;50.486088;3.036809;R;;10591;
+10048152;Le Visconti;50.59869;3.05242;R;;10591;
+10052153;Ambassade du Rhum;50.63268;3.06368;A;;;attraction
+10052269;Le Monkey;50.6302;3.06144;R;;10591;
+10069240;Sofra;50.69734;3.2049;R;;10591;
+10074369;"Musée des Anciens Combattants d'Armentiéres";50.68373;2.88128;A;;;attraction
+10094532;Thai Gourmet;50.691925;3.163146;R;;10591;
+10121116;Ambispa;50.51227;3.17088;A;;;attraction
+10128341;Pont Napoléon;50.64261;3.05224;A;;;attraction
+10136748;Parc les Poussins;50.63901;3.048907;A;;;attraction
+10137454;Izumi;50.634052;3.061252;R;;10591;
+10146352;Auberge de Jeunesse de Lille - Stéphane Hessel;50.62493;3.08033;H;hostel;;
+10147095;"Pizzeria Bel'Art";50.679745;2.861143;R;;10591;
+10148905;Pad thai;50.63315;3.06139;R;;10591;
+10150885;DINER-SIXTIES;50.763645;3.010757;R;;10591;
+10157147;Didim Kebab;50.60927;3.24916;R;;10591;
+10157955;La Fete des Papilles food;50.69216;3.08797;R;;10591;
+10163609;Omega Agency;50.633656;3.054653;A;;;attraction
+10164478;Distillerie Claeyssens;50.688;3.05232;A;;;attraction
+10165589;Taberna Latina;50.63096;3.060084;R;;10591;
+10167327;Coke;50.63786;3.058931;R;;10591;
+10170365;"LIK'EAT, Mangez Sport !";50.70965;3.172985;R;;10591;
+10171868;La Pause Gourmande;50.548695;3.028607;R;;10591;
+10174712;Le Bistroquet;50.5282;2.933139;R;;10591;
+10181406;La Creperie Du Singe;50.684467;2.874329;R;;10591;
+10182735;Primo Giorno;50.63904;3.05855;R;;10591;
+10191435;"L'Orange Bleue";50.665657;3.179964;A;;;attraction
+10195527;"L'Unis-Forme";50.61495;3.05091;R;;10591;
+10212660;Bake My Day Bondues;50.71111;3.125364;R;;10591;
+10219540;Bagelstein;50.636723;3.067691;R;;10591;
+10219853;La cave des sens;50.60924;3.24873;R;;10591;
+10228600;"O'Tera";50.53883;3.07854;A;;;attraction
+10232584;Les Jardins Mallet-Stevens;50.66855;3.16747;A;;;attraction
+10234503;Musée du Terroir;50.62685;3.1512;A;;;attraction
+10235802;Au Coeur Joyeux;50.69967;2.77416;R;;10591;
+10237150;Restaurant Chez Rahma;50.637154;3.06816;R;;10591;
+10247926;Brasserie Chez Omer;50.62504;3.04513;R;;10591;
+10249896;Popcup Cafe-ceramique;50.65639;3.07869;R;;10591;
+10256950;"L'Eveil des Sens - Lille";50.619415;3.050805;R;;10591;
+10258440;La pizza du Marche;50.65478;3.06729;R;;10591;
+10262363;Le Central Croix;50.67399;3.15417;R;;10591;
+10263400;Queen Christine;50.661255;3.13678;H;condo;;
+10266353;ChloroFil Accrobranche;50.502613;3.051867;A;;;attraction
+10270576;Singing Studio;50.635983;3.076871;A;;;attraction
+10276999;Chez Regis;50.73411;2.72828;R;;10591;
+10280677;Pizza Zio;50.712673;3.243911;R;;10591;
+10292978;Nike Factory Outlet Store;50.61468;3.13868;R;;10591;
+10296709;SOlange;50.62348;3.037538;R;;10591;
+10302502;Hall Princess;50.640198;3.058269;R;;10591;
+10302740;Al Hamra;50.691612;3.1732;R;;10591;
+10309397;Église Saint-Étienne;50.63524;3.06002;A;;;attraction
+10310426;La Vignette;50.74705;3.08667;R;;10591;
+10312218;Monument Achille Testelin;50.63911;3.05358;A;;;attraction
+10317510;Place du Theatre;50.63715;3.064758;A;;;attraction
+10317530;Chambre de Commerce;50.63766;3.0645;A;;;attraction
+10317560;Les Fusillés lillois;50.63391;3.08778;A;;;attraction
+10317568;Place de la Republique;50.631386;3.061202;A;;;attraction
+10323674;La Veranda;50.638763;3.063268;R;;10591;
+10331459;The Factory;50.61299;3.132046;R;;10591;
+10332045;Quick Vilarest;50.62203;3.12827;R;;10591;
+10340684;Maison Coilliot;50.62694;3.06016;A;;;attraction
+10351328;Il Piccolino;50.6406;3.055399;R;;10591;
+10353315;Fives Thai Coffee;50.632687;3.091567;R;;10591;
+10355420;Reggio;50.62926;3.10252;R;;10591;
+10361260;Le Loft de Patricia;50.69464;3.13218;H;bed_and_breakfast;;
+10375211;City-Tour Lille;50.63531;3.06321;A;;;attraction
+10377039;time cook;50.633415;3.05415;R;;10591;
+10380106;Starbucks Coffee;50.63833;3.060635;R;;9900;
+10380277;Lille Free Tour;50.62964;3.068794;A;;;attraction
+10382495;Pauline et Valentine;50.62864;3.05788;R;;10591;
+10385809;Sport Soit Loue;50.67719;3.21078;A;;;attraction
+10386736;Le fournil bio - Saveurs & saisons;50.626804;3.049293;R;;9901;
+10387397;La Toscana;50.62262;3.05362;R;;10591;
+10387679;Au Carrefour Bar Brasserie;50.62718;3.039247;R;;10591;
+10387688;Estaminet Le Vieux Cageot;50.57582;3.080066;R;;10591;
+10391007;Eglise du Sacré-Coeur;50.63297;3.05174;A;;;attraction
+10391793;Friterie de la Gare;50.74831;3.119394;R;;10591;
+10396111;Zythum Cafe;50.63204;3.05498;R;;10591;
+10428043;Weembi Simulateur de Chute Libre;50.584255;3.095417;A;;;attraction
+10428217;A la Maison;50.633404;3.068221;R;;10591;
+10429185;"L'auberge Du Picantin";50.62194;2.8117;R;;10591;
+10433430;Pizza Time;50.627;3.05717;R;;10591;
+10436244;Les Loges;50.630966;3.076785;R;;10591;
+10451214;Gur Kebab;50.615833;3.11955;R;;16556;
+10455020;Buffalo Grill;50.74074;2.691583;R;;10591;
+10456065;Le Grand Bassin;50.69316;3.16709;A;;;attraction
+10458138;Coeur de Ble;50.68081;3.123889;R;;9901,9909;
+10458259;My Thai;50.608574;3.168442;R;;10591;
+10460616;"Les nuages gourmands d'Emma";50.628647;3.121944;R;;9909;
+10463334;Madwood;50.64503;3.0571;A;;;attraction
+10463756;"Bar Brasserie l'Agence";50.631474;3.064768;R;;10591;
+10464860;S Pacium;50.63351;3.06722;A;;;attraction
+10468388;Le Sabot Vert;50.5459;3.043642;R;;10591;
+10468589;EXKi;50.632675;3.062772;R;;10591;
+10470571;S Club;50.62271;3.06535;A;;;attraction
+10480247;"Estaminet de l'Allumette";50.578335;3.188786;R;;10591;
+10486852;Parc du Heron;50.637383;3.146366;A;;;attraction
+10497226;Bellizzi;50.69288;3.18401;R;;10591;
+10504073;"Les Pizza d'Yvan";50.5816;2.71525;R;;10591;
+10508026;Le Quai 263;50.7172;3.1397;R;;10591;
+10511904;Restaurant Ankama;50.69927;3.15967;R;;10591;
+10513428;"Le Petit Daniel's";50.78238;3.12462;R;;10591;
+10522588;Monument au Marechal Foch;50.6355;3.05663;A;;;attraction
+10531758;At Home Biere Bondues (Lille);50.701893;3.095951;A;;;attraction
+10533380;Flandres Appart Hôtel;50.636288;3.068507;H;condo;;
+10537565;Les Saveurs de Sari;50.70521;3.15914;R;;10591;
+10543604;Piccola Napoli;50.70521;3.15914;R;;10591;
+10553882;Subway;50.632442;3.062361;R;;10591;
+10593094;Au Fil du Temps;50.69893;3.21281;R;;10591;
+10593790;"L'Abbaye des Saveurs";50.64069;3.0612;A;;;attraction
+10593872;The Level Bar;50.646763;3.057475;A;;;attraction
+10598071;W@else;50.6084;3.15507;R;;10591;
+10617589;Marmaris;50.78529;3.12687;R;;10591;
+10634679;Le Pizza Jazz;50.630383;3.050685;R;;10591;
+10637939;Flunch;50.558815;3.048706;R;;10591;
+10680970;Eglise Sainte-Marie Madeleine;50.644608;3.063416;A;;;attraction
+10683059;Chez Laurene;50.637794;3.023397;R;;10591;
+10694982;Ferme Brocart;50.58074;3.191008;H;bed_and_breakfast;;
+10696589;La Pizzeria Del Vera;50.62648;3.04872;R;;10591;
+10697729;Chez Raoul Estaminet;50.64266;3.066667;R;;10591;
+10715785;Honey and Pie;50.63964;3.06463;R;;10591;
+10716128;Piscine des weppes;50.572838;2.856236;A;;;attraction
+10716606;"Eglise Saint Martin d'Esquermes";50.62444;3.039728;A;;;attraction
+10717170;Église Sainte-Catherine de Lille;50.63953;3.05762;A;;;attraction
+10719197;Le Familial;50.69231;3.18524;R;;10591;
+10719247;Myam!;50.637573;3.076452;R;;10591;
+10719804;Jardin Vauban;50.63731;3.05208;A;;;attraction
+10721482;"L'Arrosoir";50.47459;3.24352;R;;10591;
+10754452;Aqua Grange;50.59109;3.10998;A;;;attraction
+10759479;Grill antalya;50.786457;3.127211;R;;10591;
+10777830;Le mont noir;50.77671;2.73766;A;;;attraction
+10777861;Le Bon Temps;50.54918;3.030343;R;;10591;
+10779187;Resto Lao;50.68535;3.114235;R;;10591;
+10785798;"Happy F'eat";50.63639;3.059005;R;;10591;
+10789751;Que Bueno;50.642975;3.067206;R;;10591;
+10805626;"L'Authentique";50.70214;3.21259;R;;10591;
+10808511;Liquium;50.62423;3.06439;R;;10591;
+10808822;"Kilroy's Diner";50.638733;3.058123;R;;10591;
+10810503;K Dinner;50.63875;3.05812;R;;10591;
+10818279;Au San Vito;50.681698;3.084147;R;;10591;
+10821199;Wood Food;50.620018;3.084595;R;;10591;
+10829509;Chez Molla;50.63654;3.08599;R;;10591;
+10840627;Le Shaft;50.62017;3.08285;R;;10591;
+10840854;Ferme Dehaudt;50.67418;3.12019;A;;;attraction
+10841423;"Le Sot L'y Laisse";50.655144;3.176385;R;;10591;
+10844846;Le Shaft Padel - Badminton;50.62017;3.08285;A;;;attraction
+10892955;Le Versailles;50.629032;3.073789;R;;10591;
+10895127;Au 52;50.67385;3.14636;R;;10591;
+10895174;Immersion Lille;50.61267;3.10275;A;;;attraction
+10898021;Nuit En Ville;50.654278;3.067332;H;guest_house;;
+10906467;L’Art de l’Effervescence;50.63947;3.06189;A;;;attraction
+11020243;UrbanSoccer;50.690434;3.085676;A;;;attraction
+11021963;UrbanSoccer;50.615902;3.100608;A;;;attraction
+11045350;"L'Atelier de Mademoiselle";50.681667;2.878564;R;;10591;
+11045607;"Charlie's Delicatessen";50.638817;3.062272;R;;10591;
+11445979;Excursion d’une journée complète au champ de bataille canadien pendant la Première Guerre mondiale au départ d’Arras ou de Lille;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11445981;Excursion d’une journée sur les champs de bataille des forces australiennes et néo-zélandaises dans la Somme au départ de Lille ou d’Arras;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11445982;"Excursion d'une journée complète sur le thème de la 2e guerre mondiale dans le nord de la France, mur de l'Atlantique, sites de lancement des V1 et V2 au départ d’Arras or de Lille";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11449976;Tour de Lille;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11449977;Lille City Pass;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11463502;Tour de Lille en voiture ancienne avec chauffeur privé et champagne;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11466898;Excursion en petit groupe des champs de bataille de Fromelles et de la Flandre au départ de Lille;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11469193;Visite guidée en petit groupe du Vieux Lille en anglais;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+11488105;La P’Tite Auberge;50.6113;2.991;R;;10591;
+11491962;"L'Coup D'Food";50.61361;3.14823;R;;10591;
+11592379;Cul de Poule;50.628906;3.072835;R;;10591;
+11624750;Bel Tempo Pizzeria;50.63295;3.00499;R;;10591;
+11636374;Empreinte;50.640923;3.031821;R;;10591;
+11639739;Le Toc;50.630127;3.074334;R;;10591;
+11651986;Le Lanna;50.703358;3.091722;R;;10591;
+11657382;"L'Abbaye";50.636265;3.063374;R;;10591;
+11657659;Pizza Fissa Loos;50.615307;3.017949;R;;10591;
+11663752;"L'atelier Street Food";50.61311;3.1297;R;;10591;
+11663795;Le Vagabond;50.6461;3.055587;R;;10591;
+11666532;Le Fil Rouge Armentieres;50.686768;2.884372;R;;10591;
+11670679;"Hotel L'Arbre Voyageur, BW Premier Collection";50.63974;3.067428;H;hotel;;
+11686622;comme a la maison;50.738388;3.080495;R;;10591;
+11688186;Brasserie Neri;50.65383;3.069128;R;;10591;
+11693176;Make Eat;50.68119;3.07061;R;;10591;
+11694198;Sushi Jiraiya;50.69221;3.17731;R;;10591;
+11698798;Au Chat Voir Vivre;50.63211;3.04189;R;;10591;
+11700378;"L'Imperial";50.65081;3.03479;R;;10591;
+11705645;"La P'tite Boulangerie";50.63493;3.07189;R;;10591;
+11773560;Burger Station;50.6367;3.06511;R;;10591;
+11778481;La Table de Sam;50.620754;3.06124;R;;10591;
+11798718;Le Parvis Detente;50.6355;3.06755;A;;;attraction
+11804277;La Licorne;50.67821;3.2207;R;;10591;
+11809412;LA FAMILLE - Finest Lunch;50.64568;3.07553;R;;16556;
+11828724;"Le Beffroi de l'Hôtel de Ville";50.61496;3.01486;A;;;attraction
+11862572;Le Caprice Kebab;50.63802;3.02295;R;;10591;
+11865610;Friterie du Capreau;50.68636;3.14459;R;;10591;
+11865677;Le Théâtre Municipal Raymond Devos;50.72077;3.15351;A;;;attraction
+11865682;La Médiathèque du Blanc-Seau devient la Médiathèque Aimé Césaire;50.69547;3.1515;A;;;
+11865693;Office de Tourisme;50.72244;3.16005;A;;;attraction
+11865700;Les serres pédagogiques du Jardin botanique de Tourcoing;50.72244;3.16005;A;;;attraction
+11865710;Hôtel de Ville;50.72344;3.16041;A;;;attraction
+11865853;Le Monument aux Morts;50.71773;3.15917;A;;;attraction
+11880059;Le Waf;50.63846;3.055653;A;;;attraction
+11881127;Notting Hill Coffee;50.637127;3.06474;R;;9900,9909;
+11883177;Oasis;50.62488;3.04974;R;;10591;
+11886601;"L'Idiot";50.6336;3.06149;R;;10591;
+11906335;Yanka Traiteur;50.60827;3.05502;R;;10591;
+11906721;Restaurant Chinois Mian Dian;50.63234;3.04856;R;;10591;
+11909154;Aux Arts;50.64195;3.061521;R;;10591;
+11913662;Le Melting Port;50.632854;3.035847;R;;10591;
+11926160;JUMP XL;50.606415;2.95774;A;;;attraction
+11928255;"L'Epicure";50.65039;3.071329;R;;10591;
+11929412;Hammam Zein;50.67405;3.17384;A;;;attraction
+11938321;Boulangeries Paul;50.61822;3.129119;R;;9901;
+11947518;Coeur de Lys;50.66424;3.21571;R;;9901;
+11998226;Le Cosy Restaurant;50.66708;3.21131;R;;10591;
+12018139;Better - La Cousinerie;50.64262;3.14716;R;;10591,16556;
+12029212;Columbus Cafe & Co;50.681416;3.163611;R;;10591;
+12034798;Institut du monde arabe-Tourcoing;50.72502;3.15822;A;;;attraction
+12061989;La Luna Bar Brasserie;50.66036;3.072722;R;;10591;
+12064662;Mcf Lille;50.618004;3.083944;A;;;
+12080545;Boka;50.602207;3.039532;R;;10591;
+12094080;La Chocoline;50.68021;3.24153;R;;10591;
+12095029;Gîte de Groupe;50.40974;3.28165;H;;;
+12098310;Pepere Bar;50.62947;3.06124;R;;10591;
+12116980;Pablo & Valentina;50.639477;3.061567;R;;10591;
+12128598;Yol, Restaurant Kurde;50.631676;3.064522;R;;10591;
+12141930;Graziano Pizza;50.6329;3.05506;R;;10591;
+12153098;"Etoile D'Or";50.78643;3.139605;R;;10591;
+12154830;Palais Rihour;50.63531;3.06321;A;;;attraction
+12162459;"Les Frites D'Olivier";50.61269;3.00283;R;;10591;
+12163281;Theatre du Nord;50.63642;3.063771;A;;;attraction
+12170639;Cafe du Stade;50.60891;3.02211;R;;10591;
+12174748;"A L'Energie";50.76636;3.01178;R;;10591;
+12177623;Transport VTC Lille;50.63919;3.075036;A;;;attraction
+12185164;Mr Kebab;50.68746;2.881831;R;;10591;
+12186502;Le Cesar Brasserie;50.61889;3.15917;R;;10591;
+12193060;Pause;50.63635;3.06585;R;;10591;
+12194767;La Braise;50.539497;2.788057;R;;10591;
+12210028;Silence Ca Cuit;50.639526;3.067639;R;;10591;
+12213253;Sogood;50.6361;3.0633;R;;10591;
+12232066;Altissimo Lille;50.652462;2.982055;A;;;attraction
+12232500;Flixbus;50.72127;3.16248;A;;;attraction
+12234850;KFC;50.6916;3.18159;R;;10591;
+12238169;Rococo;50.623333;3.075833;R;;10591;
+12242641;Au Cafe des Delices;50.62559;3.04535;R;;10591;
+12246053;Domyos Fitness Club Lille;50.62017;3.08285;A;;;attraction
+12254130;Pixies Bar & Burgers;50.630585;3.056446;R;;10591;
+12277712;Mademoiselle from Armentières;50.68675;2.88429;A;;;attraction
+12297969;BeerChope;50.6416;3.065556;A;;;attraction
+12318331;Adobo Loco;50.582085;3.094295;R;;10591;
+12321334;Burger King;50.61671;3.130519;R;;10591;
+12323030;"Restaurant de l'Innovation";50.623947;3.103673;R;;10591;
+12323546;Peko Peko;50.63432;3.02134;R;;10591;
+12323547;Le Petit Roubaix;50.692627;3.16961;R;;10591;
+12337910;La Terrasse;50.65038;3.07149;R;;10591;
+12338156;Le S’Park  Restaurant;50.60195;3.13409;R;;10591;
+12338761;Ôh My Hôte;50.580254;3.049867;H;specialty_b_b;;
+12339231;"Le Ch'ti Creux";50.6719;3.08187;R;;10591;
+12342220;Ikea;50.64975;2.977689;R;;10591;
+12343386;Paradiso;50.68643;2.89396;R;;10591;
+12347250;"Au P'tit Louis";50.62608;3.03977;R;;10591;
+12347292;Homa Cafe Boutique;50.63442;3.06547;R;;10591;
+12350790;"L'Assiette au Beouf";50.664356;3.145556;R;;10591;
+12350954;Escapers Lille - Escape Game;50.63126;3.05928;A;;;attraction
+12359194;Le Barbier qui fume Lille Europe;50.640205;3.076845;R;;10591;
+12361984;Le Fado;50.6658;3.06478;R;;10591;
+12364679;Aux Jours Heureux;50.646587;3.076616;R;;10591;
+12368036;Les Comptoirs de Justin;50.63998;3.01905;A;;;
+12379014;Starbucks;50.61782;3.12856;R;;9900;
+12384706;La Boite a Sel;50.60447;3.07638;R;;10591;
+12395932;Le Black Night Rock Cafe;50.638523;3.068743;R;;10591;
+12403870;La Condition Publique;50.6914;3.18858;A;;;attraction
+12411242;Honey and Pie;50.63687;3.06434;R;;10591;
+12430262;Bistrot Francais;50.582176;3.095067;R;;10591;
+12434206;Pizza Nonna;50.61395;3.15706;R;;10591;
+12442472;Restaurant Jane;50.639565;3.067419;R;;10591;
+12447733;Friterie Snack de la Place;50.73232;3.1375;R;;10591;
+12454022;Hit Pizza;50.63126;3.05893;R;;10591;
+12458949;Restaurant Alhambra;50.62195;3.05308;R;;10591;
+12492435;Street Food;50.67719;3.14096;R;;10591;
+12495510;"Block'Out Lille";50.648342;3.11673;A;;;attraction
+12498843;Eklo Hotels Lille;50.61991;3.083387;H;hotel;;
+12499128;Café Society;50.637222;3.063594;A;;;attraction
+12499978;Restaurant La Chine;50.78473;3.12656;R;;10591;
+12502385;RESTAURANT CAFE OLIVE;50.635525;3.063136;R;;10591;
+12502844;Le Saint 21;50.637012;3.060996;R;;10591;
+12510616;Metro Bowling;50.623795;3.066834;A;;;attraction
+12516063;La Grange de Salome;50.53164;2.8381;H;specialty_b_b;;
+12518865;Del Arte;50.653618;2.984661;R;;10591;
+12526659;Eglise Saint Nicolas;50.66538;3.11933;A;;;attraction
+12526965;Deffrennes;50.61192;3.0687;H;guest_house;;
+12535386;La Bustina;50.646126;2.960199;R;;10591;
+12537450;Honey and Pie Seclin;50.54918;3.02918;R;;10591;
+12542833;Relais H Bleu Cafe;50.60839;3.033359;R;;10591;
+12546503;Starbucks;50.63767;3.07248;R;;9900;
+12546696;Boulangerie Mathieu;50.63411;3.066978;R;;9901;
+12550742;Le Chamalo;50.72241;3.157862;R;;10591;
+12569218;Aux Herbes Hautes;50.64714;2.83985;H;cottage;;
+12587885;Estaminet de Comines;50.7651;3.00713;R;;10591;
+12587960;"3 Brasseurs - Bistro'Pub";50.65102;3.12585;R;;10591;
+12593455;La Maison MJC CS;50.72472;3.17356;A;;;
+12597148;Sogood Euratechnologies;50.63437;3.02146;R;;10591;
+12597150;Sogood;50.642365;3.146117;R;;10591;
+12597151;SOGOOD LOOS EURASANTE;50.60222;3.03827;R;;10591;
+12597566;Lacquemant De Lille;50.63506;3.06449;R;;10591;
+12598150;Sogood Villeneuve Haute Borne;50.608494;3.154748;R;;10591;
+12598966;"L'Authentique";50.64165;3.01761;R;;10591;
+12599510;Ibis Kitchen;50.69008;3.17731;R;;10591;
+12599729;Ibis Kitchen Restaurant;50.62071;3.13316;R;;10591;
+12600378;Novotel Cafe;50.63676;3.0588;R;;10591;
+12603609;"L'Europe";50.67922;3.11024;R;;10591;
+12610326;Maison Blanche;50.63927;3.05855;R;;10591;
+12611354;Tam-Tam;50.6324;3.05569;A;;;attraction
+12611605;WOKO Euralille;50.637764;3.074751;R;;10591,16556;
+12621061;Restaurant La Carte;50.703575;3.091778;R;;10591;
+12632051;Jim Sushi;50.7021;3.21708;R;;10591;
+12632733;Tao Bento Marquette;50.681515;3.083656;R;;10591;
+12640136;Pevele Istanbul;50.52655;3.16842;R;;10591;
+12644663;La Cambuse;50.64349;3.01187;R;;10591;
+12658134;"Crep'eat";50.637783;3.074514;R;;10591;
+12659225;Restaurant Nakhil;50.62426;3.05013;R;;10591;
+12663428;"Sam'Regal";50.646797;3.057576;R;;10591;
+12667911;Chicon Presse;50.63785;3.069619;R;;10591;
+12695395;Centre Nautique Babylone;50.65125;3.14166;A;;;attraction
+12697758;Canard Street Bethune;50.633118;3.062736;R;;10591,16556;
+12712185;Le Cambridge;50.63959;3.06777;R;;10591;
+12715504;Sushi & you;50.69447;3.16449;R;;10591;
+12720580;Kidzy;50.681;3.05318;A;;;attraction
+12720586;Récréakid;50.6337;2.96411;A;;;attraction
+12790472;Cafe Brasserie Le Thelut;50.47098;3.06793;R;;10591;
+12801523;Pure;50.62929;3.042678;R;;10591;
+12805698;Sous le Charme;50.67129;3.02165;H;bed_and_breakfast;;
+12805904;Le 34;50.68675;2.88429;H;condo;;
+12813096;Cinéma Gérard Philipe;50.68623;3.14461;A;;;attraction
+12816243;Istambul Capitol;50.64672;2.99877;R;;10591;
+12821916;Little Italie;50.630424;2.77005;R;;10591;
+12829349;Cinéma Le Majestic;50.6335;3.06296;A;;;attraction
+12832154;Le Marché de Vieux Lille;50.6425;3.06155;A;;;attraction
+12832422;La Ressourcerie - Cantine & Bistrot;50.63616;3.05907;R;;10591;
+12832453;SOGOOD;50.61563;3.12666;R;;10591;
+12839815;Two D;50.6806;3.062266;R;;10591;
+12851331;Inesis Golf Park;50.6908;3.10753;A;;;attraction
+12855225;pizzeria Angelo;50.51718;2.86455;R;;10591;
+12862790;"Au P'tiot Bonheur";50.59253;2.998938;R;;10591;
+12870936;Le Bon Coin;50.65878;2.76761;H;inn;;
+12871307;Lakis Foods-Les Delices de Baalbeck;50.62888;3.05301;R;;10591;
+12871362;Istanbul Palace Grill Kebab;50.61897;3.13219;R;;10591;
+12873873;Roubaix Manufacture;50.68266;3.19579;A;;;attraction
+12875922;"L'Enjoy";50.633087;3.068056;R;;10591;
+12876860;"Restaurant l'Auberge St Valentin";50.740955;3.012206;R;;10591;
+12881865;Jasmin thai;50.613052;3.132611;R;;10591;
+12884910;"L'adress";50.62694;3.05712;R;;10591;
+12885206;Fresh Burritos;50.63818;3.075078;R;;10591;
+12892564;"L'Hache Prise";50.58546;3.09355;A;;;attraction
+12894954;"La Tete Dans L'Cru";50.664955;3.079984;R;;10591;
+12900050;Brioche Doree;50.63495;3.064408;R;;10591;
+12900126;Le Petit Saint Georges;50.74074;2.69156;R;;10591;
+12900283;Carpe Diem;50.67546;3.054656;R;;10591;
+12910314;Parc François Mitterrand;50.62899;3.1033;A;;;
+12913598;Aux Coeurs Joyeux Bailleul;50.742218;2.739167;R;;10591;
+12921111;Speed Rabbit  Pizza;50.62632;3.11133;R;;10591;
+12928637;Excursion de 2 jours entre Lille ou Arras vers la Somme canadienne et les Flandres;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+12929841;Calibou & Co;50.794193;2.643631;R;;10591;
+12929850;La Pizzaiola;50.436558;3.26261;R;;10591;
+12959757;Tutti quanti;50.62779;3.07875;R;;10591;
+12960074;"L'Hotel de France";50.69183;3.17384;H;specialty_inn;;
+12967587;"Plaisirs d' Antan";50.5991;2.757015;R;;10591;
+12969615;Le Saint Pierre;50.77251;3.04319;R;;10591;
+12975590;Mere Fille et Co;50.63624;3.02628;R;;10591;
+12975591;Le Presentoir - Cave a manger;50.63678;3.065217;R;;10591;
+12975597;Bacchus;50.673767;3.146244;R;;10591;
+12989108;Pies and Potes;50.638702;3.022031;R;;10591;
+12992857;"En'K";50.646614;3.136665;R;;10591;
+12995238;"Le Relais d'Alcy";50.477077;3.214582;R;;10591;
+12999744;Patrimoine Kabyle;50.62927;3.061201;R;;10591;
+13002864;Le Wez;50.65918;2.92873;R;;10591;
+13003710;"L'Arc";50.638508;3.058331;R;;10591;
+13003794;Boulangerie Delbasse;50.48902;3.3509;R;;9901;
+13074450;"Le Bistrot d'Angele";50.62631;3.15028;R;;10591;
+13074473;La Chaise Au Plafond - Brasserie;50.593655;3.121358;R;;10591;
+13075062;La Galette du Nord;50.68805;2.88339;R;;10591;
+13079147;Au Bureau;50.743076;3.145052;R;;10591;
+13081911;Assez Joué;50.63763;3.07086;A;;;attraction
+13100167;Made in Street hot dog;50.63359;3.06441;R;;10591;
+13100172;The Shack Vieux-Lille;50.64571;3.05594;R;;10591;
+13110697;Le QG Brasserie;50.60971;3.10783;R;;10591;
+13115538;Les Bulles à Flotter Lille;50.63323;3.06396;A;;;attraction
+13125733;Les Petits Poissons;50.62499;3.068224;R;;10591;
+13125898;Le Dancing;50.648834;3.042879;R;;10591;
+13134977;MyBurgers;50.63013;3.054905;R;;10591;
+13143832;Columbus Cafe & Co;50.61767;3.131077;R;;10591;
+13153229;Garden Food;50.67983;3.17931;R;;10591;
+13156984;Bodrum;50.61829;3.07157;R;;10591;
+13157084;Fete a Crepe;50.63268;3.09158;R;;10591;
+13164151;Au Ceour de l’Inde;50.636333;3.02668;R;;10591;
+13164303;Pizzarella Lille;50.62567;3.04554;R;;10591;
+13164906;Hammam Les Cent Ciels;50.62497;3.067879;A;;;attraction
+13166974;Kebab House;50.62404;3.06834;R;;10591;
+13168349;La Clairiere;50.63438;3.057199;R;;10591;
+13173587;Camping de la Ferme des Saules;50.7617;2.74945;H;campground;;
+13173623;Terre Et Mer;50.51794;2.78079;R;;10591;
+13185207;Au Feu de Bois;50.660023;3.012039;R;;10591;
+13189547;Five Guys;50.63333;3.062856;R;;16556;
+13197324;Meert Tradition;50.6375;3.061715;R;;10591;
+13197492;Memphis Coffee Roncq;50.743088;3.144922;R;;10591;
+13198145;Au Poulet Royal;50.64574;2.98661;R;;10591;
+13202030;Madison Coffee;50.63373;3.055658;R;;10591;
+13202370;Le Fournil de Mon Enfance;50.67566;3.19641;R;;10591;
+13202390;Qsd Burger Ville;50.71347;3.00014;R;;10591;
+13202400;La Bonne Pate;50.71221;2.99881;R;;10591;
+13207039;Karafun Bar;50.630264;3.055888;A;;;attraction
+13220206;Pizza Fina;50.69276;3.18002;R;;10591;
+13221022;"L'Estaminet de Gand";50.64241;3.066389;R;;10591;
+13223450;Le Bar Etc...;50.6197;3.16054;R;;10591;
+13230557;Biovino;50.62876;3.05879;R;;10591;
+13274180;Le Pigeonnier;50.665005;3.162224;H;guest_house;;
+13279770;Restaurant Le Corner;50.615036;3.11404;R;;10591;
+13284554;La Popote by Pat et Lolo;50.62533;3.04889;R;;10591;
+13294544;Mac Ewan’s;50.62853;3.05849;A;;;attraction
+13294810;Conduisezmoi. Com;50.63764;3.06957;A;;;attraction
+13327598;La Bourgogne en Ville;50.635;3.05208;H;specialty_b_b;;
+13339355;Immersiv;50.58236;3.094255;A;;;attraction
+13340013;Au P’tit Sainghin;50.58785;3.167038;R;;10591;
+13340271;Chopsticks&Co;50.62735;3.049595;R;;10591;
+13349901;"Flam's Roubaix";50.69014;3.176918;R;;10591;
+13350310;Home Made;50.702477;3.134851;R;;10591;
+13355403;Sushi Est;50.63391;3.06625;R;;10591;
+13367038;EL Riadh;50.637222;3.068014;R;;10591;
+13368267;Speculoos and Chicorée;50.6599;3.13664;H;cottage;;
+13374205;Dame Blanche;50.613678;3.06234;R;;10591;
+13385024;"L'Antre de Lomme";50.6471;3.00519;R;;10591;
+13386364;L’Antre de Lomme;50.647133;3.005281;A;;;attraction
+13387436;Cathédrale de la Treille;50.64051;3.06251;A;;;attraction
+13387952;Boulangerie Patisserie Honorino Fonseca;50.64092;3.15624;R;;9901;
+13389009;BABE;50.63445;3.061263;R;;10591;
+13419774;Le Bar a Pizza;50.63059;3.05478;R;;10591;
+13423166;Le Dix-Huit;50.662342;3.052093;R;;10591;
+13424458;By Proxy;50.61975;3.05468;R;;10591;
+13427275;VC Corner Australian Cemetery;50.61584;2.83119;A;;;attraction
+13427651;Roubaix Tourisme;50.69412;3.166301;A;;;attraction
+13427824;"L'averti";50.64387;3.05852;R;;10591;
+13449493;Au Bureau Bondues;50.6848;3.084219;R;;10591;
+13456975;"Au Lion D'Or";50.64011;3.06444;R;;9901;
+13486539;Le Phenix Bar Haubourdin;50.60991;2.9873;R;;10591;
+13505663;Spicy Village;50.69908;3.17271;R;;10591;
+13507821;Ristorante Del Arte;50.65362;2.984495;R;;10591;
+13511513;TOK TOK;50.628407;3.051965;R;;10591;
+13518051;The Queen Victoria;50.62935;3.05861;R;;11776,16556;
+13530728;So Beautiful;50.738;3.11602;A;;;attraction
+13542988;Les Freres Pinard;50.64051;3.060833;R;;10591;
+13547795;O Rendez-Vous;50.667442;2.972482;R;;10591;
+13550324;Le Pain Quotidien;50.636765;3.065095;R;;9901;
+13557666;"AL'Carbone";50.63335;3.01027;R;;10591;
+13559481;Art Taxi Lille;50.62386;3.04473;A;;;attraction
+13559485;Piscine Les Ondines;50.646065;2.704338;A;;;attraction
+13565170;La Picola;50.69285;3.17046;R;;10591;
+13569204;Poggio;50.62897;3.061489;R;;10591;
+13587692;Simo Car;50.61309;3.06723;A;;;attraction
+13657044;Le Club Sandwich Cafe;50.61781;3.131534;R;;9900;
+13748010;A la Ferme City Break & Spa;50.69392;3.22939;H;specialty_b_b;;
+13748066;FACTORY & CO LILLE Faidherbe;50.637157;3.065636;R;;10591;
+13786254;Safine;50.59587;3.05098;R;;10591;
+13787040;Le Familia;50.78005;3.12765;A;;;attraction
+13792207;Bistrot Francais;50.64047;3.05377;R;;10591;
+13800748;Velodrome Andre Petrieux;50.678196;3.204479;A;;;attraction
+13809877;Wok and Sweet;50.6363;3.066217;R;;9900,9909,16556;
+13814540;Au Petit Bonheur;50.479168;3.055278;R;;10591;
+13819460;"Camping Les Alouettes et l'Image";50.68804;2.93234;H;campground;;
+13877671;Nostrum Sebastopol;50.62987;3.05761;R;;10591;
+13944809;Fabrica;50.69249;3.19036;R;;10591;
+13945309;Le Mehdi;50.68769;3.18374;R;;10591;
+13955046;Le Germoir Friterie;50.47616;3.28526;R;;16556;
+13955065;Takos King;50.63262;3.06216;R;;10591,16556;
+13955830;Etoile de Damas;50.694992;3.164694;R;;10591;
+13958990;Nature;50.68655;2.88368;R;;10591;
+13972786;Le Beausejour Pizzeria Franjo;50.57898;3.05232;R;;10591;
+13982029;Rush Hour Escape Game;50.63556;3.0546;A;;;attraction
+13986286;Notting Hill Coffee;50.63973;3.06447;R;;9900;
+13994874;La Pizza a Tony;50.51184;2.785;R;;10591;
+14009273;Pitta Fives;50.63258;3.09118;R;;10591;
+14011947;Esthetic Spa;50.64156;3.06562;A;;;attraction
+14016317;QG Esports;50.69192;3.17271;A;;;
+14019728;Aoyama;50.642986;3.067208;R;;10591;
+14023929;La Table Eiffel;50.67399;3.15417;R;;10591;
+14024554;Mamma Divina;50.62752;3.07919;R;;10591;
+14035157;"L'accord caviste";50.53969;3.075752;A;;;attraction
+14049576;Kozmo;50.63639;3.065369;R;;10591;
+14062350;Legend Cafe;50.63615;3.06307;R;;10591;
+14062384;Octopus;50.628723;3.058625;R;;10591;
+14066753;Le Saint Claude;50.6454;3.10214;R;;10591;
+14066961;Les Petites Douceurs de Phuket;50.6362;3.026942;R;;10591;
+14072270;Le Palais du Zen;50.65515;3.05883;A;;;attraction
+14072463;"Bar Restaurant l'Esperance";50.62622;3.149932;R;;10591;
+14078558;Fresh Burritos;50.62203;3.12827;R;;10591;
+14082556;La Table Aux Enfants;50.50483;2.78254;R;;10591;
+14094783;Friterie Meunier;50.63742;3.063362;R;;16556;
+14099256;Le 91;50.61032;3.02049;R;;10591;
+14102163;La creperie des Beaux-Arts;50.63253;3.06243;R;;10591;
+14117449;Les Terrasses de la Chapelle;50.654408;2.900224;R;;10591;
+14119307;Lazaro Pizza;50.67711;3.08045;R;;10591;
+14125766;Ecole Francaise de Parachutisme Lille-Bondues;50.68627;3.08046;A;;;attraction
+14132839;Liviano;50.651035;3.06934;R;;10591;
+14133260;Mister T’acos;50.6275;3.04001;R;;10591;
+14135563;It Coffee;50.637203;3.063925;R;;10591;
+14138732;Au Duc de Montebello;50.62645;3.040672;R;;10591;
+14154277;Borsalino;50.693054;3.052563;R;;10591;
+14154513;La Friche Gourmande;50.627724;3.094773;A;;;attraction
+14158058;"L'Annexe";50.654686;3.085479;R;;10591;
+14161045;One Brain;50.62765;3.06979;A;;;attraction
+14180970;ESCAPETIME LILLE;50.60549;2.961197;A;;;attraction
+14181542;Todia;50.72245;3.15904;R;;10591;
+14183711;Les Balancoires;50.641796;3.065857;R;;10591;
+14189087;"Trib's";50.63681;3.07051;R;;10591;
+14200011;Luzzi Pizza;50.63437;3.18899;R;;10591;
+14208975;"Pizz'Eli";50.7128;2.99945;R;;10591;
+14209585;La Suite;50.64131;3.06543;A;;;attraction
+14215567;Les 5 Marmites;50.635;3.063056;R;;10591;
+14411768;La Jolie Cabane;50.476112;3.234035;R;;10591;
+14509410;"Annie's Kitchen";50.628773;3.052742;R;;10591;
+14509422;Bagel Corner;50.63452;3.02018;R;;10591;
+14603993;La Frite Adoree;50.607002;3.252376;R;;10591;
+14788377;"Cafe de l'abattoir";50.53095;2.940267;R;;10591;
+14790931;Parc Marguerite Yourcenar;50.77947;2.730958;A;;;attraction
+14792809;Brasserie des Flandres;50.74309;3.145063;R;;10591;
+14838212;La Belle Adresse;50.67437;3.06681;R;;10591;
+14863429;Les Cognées - Lancer de haches;50.63935;3.06763;A;;;attraction
+14896003;Frango do Portugal;50.73164;3.1658;R;;10591;
+14912559;Sabores de Portugal;50.72364;3.15868;R;;10591;
+14912871;Soultrain Cafe;50.62981;3.065336;R;;11776,10591;
+14913844;La Finarde;50.6256;3.0501;A;;;attraction
+14934012;Bistrot Bruno;50.68099;3.06449;R;;10591;
+14939978;"Biola'pizza";50.75042;3.15209;R;;10591;
+14944487;Moulin de Vertain;50.53609;3.17675;A;;;attraction
+14950657;Église Saint-Eubert;50.57644;3.08045;A;;;attraction
+14955564;La Pharmacie;50.64008;3.0578;A;;;attraction
+14957396;Burger King;50.643032;3.142805;R;;10591;
+14962529;Fresh Burritos Lille Solferino;50.63075;3.055461;R;;10591;
+14976015;El Riadh Junior;50.63243;3.05543;R;;10591;
+14977089;Big Fernand Vieux Lille;50.63889;3.058664;R;;16556;
+14983045;Cimetière de Hémévillers;50.58028;2.74379;A;;;attraction
+14987967;Haebalaki;50.722755;3.167344;R;;10591;
+14997534;Le Kremlin;50.64;3.05953;A;;;attraction
+15002983;"L'Autre Cave";50.7101;2.99801;A;;;attraction
+15010363;Quick;50.665688;3.029293;R;;10591;
+15012457;Le Buisson;50.65662;3.08899;R;;10591;
+15024103;Point Us;50.746563;3.14377;R;;10591;
+15024123;"Le Moulin d'Or coffee";50.618362;3.072019;R;;10591;
+15027305;Le Pam;50.52206;3.113308;R;;10591;
+15027315;Plaisirs et Gourmandises;50.66627;3.141424;R;;9901;
+15027319;Dina;50.62663;3.05;R;;10591;
+15027462;Triolo Food;50.61688;3.14155;R;;10591;
+15030182;Au Gre des Sens;50.443985;3.35874;R;;10591;
+15030706;"T'orsa";50.630287;3.047125;R;;10591;
+15038634;Ambiances Et Spa;50.60671;2.958812;A;;;attraction
+15041882;Au Beau Cafe;50.62985;3.06393;R;;10591;
+15042278;Cook Kaffe;50.634003;3.061036;R;;10591;
+15064907;Boucher Thai;50.63824;3.05821;R;;10591;
+15064936;Davonn;50.680725;3.062029;R;;10591;
+15070257;Etoile Coffee;50.63357;3.06634;R;;10591;
+15072067;Mademoiselle;50.63764;3.05819;R;;10591;
+15075771;La Roue Libre;50.62925;3.057256;R;;10591;
+15087190;Le Sainghulier;50.56254;2.89989;R;;10591;
+15095513;"O Galo d'Ouro";50.69418;3.18772;R;;10591;
+15096294;Soko Thai;50.667397;3.074781;R;;10591;
+15098509;Sohet;50.627;3.10952;R;;9901;
+15099737;The Golden Square;50.63783;3.06602;R;;10591;
+15110003;"Pizz'N Chips";50.54353;2.98374;R;;10591;
+15114379;La Bobine;50.70157;3.159177;R;;10591;
+15121559;"Musée de l'Institut Pasteur";50.628757;3.074008;A;;;attraction
+15123543;Pirates Paradise;50.741238;3.144525;R;;10591;
+15127352;Brasserie Bellenaert;50.71315;2.68431;A;;;attraction
+15127692;Handshake Coffee;50.635693;3.058333;R;;10591;
+15128568;Itsy Bitsy;50.631847;3.062931;R;;10591;
+15130668;"Beffroi De l'Hôtel de Ville";50.686523;2.88251;A;;;attraction
+15147523;Eglise Saint Laurent de Richebourg;50.57925;2.73952;A;;;attraction
+15147688;Cafe Peacock;50.63612;3.063246;R;;11776,10591;
+15147880;Aux Gourmandises du Parc;50.7273;3.154;R;;10591;
+15151247;Chopsticks & Co;50.63675;3.071281;R;;10591;
+15183375;La Table 54;50.740654;2.69025;R;;10591;
+15183411;Église Sainte-Chrysole;50.76574;3.00669;A;;;attraction
+15184914;Inoui VR;50.585808;3.08544;A;;;attraction
+15188100;Hoops Factory;50.637363;3.097347;A;;;
+15194675;La Bellezza;50.639053;3.058885;R;;10591;
+15194770;Pates and Co;50.65174;3.18903;R;;10591;
+15210572;Mirabella Pizza;50.78277;3.126604;R;;10591;
+15218282;Nanan;50.67103;3.18349;R;;9901,9909;
+15227076;La Squisita;50.66753;3.143509;R;;10591;
+15229717;Club Marot;50.63735;3.061103;R;;10591;
+15233942;Chapelle Notre Dame de Réconcilation;50.62598;3.03756;A;;;attraction
+15238387;Villa Yoga;50.687294;3.085063;R;;10591;
+15246962;Kinwasso;50.64457;3.1357;R;;10591;
+15253209;Courtepaille;50.6363;2.967311;R;;10591;
+15283808;"L'EntrePotes";50.63923;3.05844;A;;;
+15289647;Dubai Food;50.61057;3.06477;R;;10591;
+15290576;"Domino's Pizza";50.61463;3.014138;R;;10591;
+15290906;Le Renard et La Belette;50.61461;3.013664;R;;10591;
+15293034;Relais Princesse;50.64527;3.05603;H;;;
+15293543;"Beffroi de l'Hôtel de Ville";50.76531;3.00614;A;;;attraction
+15297389;"Domino's Pizza";50.62591;3.112072;R;;10591;
+15297537;"Domino's Pizza";50.69254;3.18376;R;;10591;
+15303423;"Rallye 'Découvertes & Surprises'";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+15319870;"2 Chambres D'Hote Proche Lille Gare";50.67223;3.08887;H;;;
+15321273;Subway;50.63691;3.071401;R;;10591;
+15321282;"L'Estaminet Gourmand";50.639164;3.128479;R;;10591;
+15328335;Paradise Cookie Nyah;50.64445;3.06355;R;;9909;
+15364672;4 Feuilles de the;50.72193;3.16113;R;;9900;
+15364838;"Domino's Pizza";50.628414;3.051828;R;;10591;
+15364873;"Domino's Pizza";50.6867;2.881462;R;;10591;
+15364885;"Domino's Pizza";50.621964;3.079461;R;;10591;
+15364944;Escape Hunt Lille;50.68054;3.061833;A;;;attraction
+15439954;"O'Cedre";50.67364;3.14572;R;;10591;
+15514102;Le Zéphyr;50.65222;3.18989;A;;;attraction
+15522690;Le Galettoire;50.62469;3.038787;R;;10591;
+15528684;Best Tacos;50.61946;3.06376;R;;10591;
+15554564;Collégiale Saint-Piat;50.55062;3.03082;A;;;
+15572248;Le Dome 33;50.63497;3.069444;R;;10591;
+15587969;Hôpital Notre-Dame;50.54782;3.02154;A;;;attraction
+15596637;"Les Jardins d'Englos";50.62374;2.9604;R;;10591;
+15596969;Le Green;50.56703;2.83124;R;;10591;
+15597566;"L'Estaminet du Pont";50.61208;3.07444;R;;10591;
+15597876;Entrepotes;50.75337;3.13734;R;;10591;
+15599302;Pizzeria Don Giuseppe;50.69716;3.141066;R;;10591;
+15609861;Restaurant Native;50.689915;3.063225;R;;10591;
+15609894;Place des Oliviers;50.582676;3.094235;R;;10591;
+15609930;Parc du Château de Robersart;50.68704;3.05371;A;;;attraction
+15609946;Jardin de la Comtesse;50.68456;3.0539;A;;;attraction
+15634824;Eglise Saint Vaast de Wambrechies;50.68661;3.05296;A;;;attraction
+15634834;Mairie de Wambrechies;50.68748;3.05354;A;;;attraction
+15634845;Le Fort du Vert Galant;50.69291;3.01954;A;;;attraction
+15634996;"O'Tacos";50.63631;3.06823;R;;10591;
+15635057;Château de Flers;50.63599;3.13106;A;;;attraction
+15641620;Studios De Standing - Emeraude - Lille Euralille;50.63798;3.07289;H;;;
+15643143;Hôtel de Ville de Roubaix;50.69119;3.17401;A;;;attraction
+15643150;Réservoirs à Eau du Huchon à Roubaix;50.67871;3.17188;A;;;attraction
+15643193;La Maison de la Confiserie;50.58169;3.03633;A;;;attraction
+15643207;Chemin Européen de Saint-Piat;50.55062;3.03082;A;;;attraction
+15643215;Canal de Seclin;50.54782;3.02154;A;;;attraction
+15643233;Lac des Espagnols;50.63403;3.13723;A;;;attraction
+15643322;Église Saint-Pierre de Bouvines;50.57971;3.18721;A;;;attraction
+15655015;Smart Rent Aparts Les Studiantes;50.63693;3.07314;H;limited_service_property;;
+15658851;Office de Tourisme de Wattrelos;50.69741;3.20554;A;;;attraction
+15658857;Église Saint-Maclou;50.70157;3.21425;A;;;
+15658859;"Église Sainte-Thérèse de l'Enfant-Jésus";50.69859;3.20318;A;;;attraction
+15658871;Théâtre Équestre de Wattrelos;50.69592;3.23223;A;;;attraction
+15660549;Relais Nature du Val de Marque;50.63836;3.16888;A;;;attraction
+15660686;Rotisserie Meziani;50.72931;3.1589;R;;10591;
+15663022;"Les Gouttes d'eau de Jacques Tissinier";50.63371;3.13141;A;;;attraction
+15663041;Poney Club;50.63853;3.14849;A;;;attraction
+15663096;VirtualRoom;50.640667;3.125439;A;;;attraction
+15667011;Grill Yourself;50.63315;3.05369;R;;10591;
+15668293;"La Terrasse du Green Chateau d'Hem";50.642437;3.195759;R;;10591;
+15670604;La Banque Pizza & Aperitivo;50.641403;3.065209;R;;10591;
+15671568;"L'Atelier de Fred";50.71217;2.93259;R;;10591;
+15672947;Église Saint-Pierre de Flers-Bourg;50.63595;3.12931;A;;;attraction
+15676389;"L'Escapade";50.6054;2.85282;H;limited_service_property;;
+15677108;Krama;50.622772;3.064342;R;;10591;
+15679103;Le Reflex;50.74404;3.173549;R;;10591;
+15683821;Pitaya Lille;50.633045;3.062525;R;;10591,16556;
+15685412;Le Chat Qui Dort;50.64365;3.06013;H;limited_service_property;;
+15685737;Home Appart;50.68376;2.87977;H;lodge;;
+15688230;Nestyou Lille Centre Ville;50.62707;3.06717;H;condo;;
+15688253;Eglise Saint Martin;50.56214;3.00068;A;;;
+15696133;Shake’N Out Burger;50.636665;3.064444;R;;16556;
+15707107;BeefHouse Lille;50.63668;3.072865;R;;10591;
+15707118;"Ben & Jerry's";50.62987;3.04594;R;;10591;
+15707130;BI Bim Bap;50.63708;3.06854;R;;10591;
+15707150;Boulangerie Hubinon Lamont;50.62262;3.03673;R;;10591;
+15707157;Brasserie Hollyfood;50.63724;3.02442;R;;10591;
+15707160;Boyster;50.63984;3.05475;R;;10591;
+15707287;Diner Burger Grill;50.64073;3.06716;R;;10591;
+15707291;Dolce Ristorante Mouvaux;50.7013;3.13506;R;;10591;
+15707305;Eat and You;50.67566;3.19641;R;;10591;
+15707380;Gur Kebab;50.63634;3.06911;R;;10591;
+15707444;Kaf;50.63646;3.06894;R;;10591;
+15707572;Le Magistral;50.72354;3.15766;R;;10591;
+15707575;Le Master Naan;50.69165;3.17531;R;;10591;
+15707604;Les 3 Coqs;50.626503;3.047417;R;;10591;
+15707648;Mamak Malaysian Street Food;50.63343;3.04103;R;;10591;
+15707680;Mission Saigon;50.63331;3.04026;R;;10591;
+15707758;Ofika;50.70521;3.15914;R;;10591;
+15707786;Paradise Sushi;50.63467;3.05724;R;;10591;
+15707797;Perfecto Pizza;50.62984;3.04588;R;;10591;
+15707871;Pizzeria Toscana Lille;50.73217;3.18011;R;;10591;
+15707966;So Drive Marcq-En-Baroeul;50.62364;3.05042;R;;10591;
+15707973;"So'Drive Roubaix";50.6809;3.17959;R;;10591;
+15707997;"So'Drive Tourcoing";50.64281;3.0669;R;;10591;
+15708009;Subway;50.627274;3.079375;R;;10591;
+15708069;Tartines and Co;50.63325;3.04116;R;;10591;
+15708072;Tao Bento Lille;50.63636;3.06904;R;;10591;
+15708081;The Chicken Best;50.62591;3.11278;R;;10591;
+15708129;Zn Pizza;50.619793;3.048559;R;;10591;
+15748384;Burger King;50.685036;2.840578;R;;10591;
+15748590;La Friterie Village en Flandre;50.66668;3.04331;R;;10591;
+15752444;"Carré d'artistes";50.63847;3.06006;A;;;
+15758708;LA FAMILLE - Finest Lunch;50.60548;3.15645;R;;10591;
+15777603;Lille : balade guidée en petit groupe en français;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+15778706;Chasse au trésor et dégustation de bière à Lille Saint Sauveur (La bière des 3 moulins);50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+15779839;Bambou et Olivier;50.678303;3.193128;H;limited_service_property;;
+15779920;O Stam;50.66891;3.14331;R;;10591;
+15791702;La Patate qui Fume;50.62926;3.03636;R;;10591;
+15805224;"L'Anatole";50.64632;2.96008;R;;10591;
+15813708;Burger Sweet Grill;50.68689;3.18518;R;;10591;
+15816643;Estaminet Parent;50.673737;2.984293;R;;10591;
+15832048;"Shooter's Bar";50.63296;3.05507;A;;;attraction
+15832051;La Plage;50.63211;3.05293;A;;;attraction
+15858228;Spacieux 2 Studio Vieux Lille 24H/24H Access;50.63994;3.05806;H;;;
+15866716;Lered Burger;50.69977;3.18044;R;;10591;
+15873223;Hapik;50.741135;3.144392;A;;;attraction
+15887561;Virtual Games Park Lomme;50.652195;2.986832;A;;;attraction
+16030114;Original Burger Grill;50.62117;3.05246;R;;10591;
+16172932;Union Sportive Portuguese Rx TG;50.70324;3.18179;R;;10591;
+16337581;La Pizza de la Nonna Estaires;50.6451;2.72084;R;;10591;
+16496370;"L'In-Dependance";50.6727;3.07636;H;;;
+16642048;Lille: cours de cuisine;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+16644518;Monsieur Oscar;50.63748;3.06418;R;;10591;
+16646991;A La Recherche Du Temps Perdu;50.62443;3.05744;H;;;
+16648873;"C' du Jardin";50.68261;3.13269;R;;10591;
+16649254;Délirium;50.632385;3.054713;A;;;attraction
+16652095;Oxygène Attitude;50.60893;3.22972;A;;;attraction
+16657808;Intervilles;50.66164;3.10189;R;;10591;
+16662454;Flunch;50.64801;3.11664;R;;10591;
+16663055;La P’tite Adresse;50.56766;3.21506;R;;10591;
+16667518;Asian Food;50.6506;3.07241;R;;10591;
+16667949;Peniche Archimede;50.639107;3.052578;R;;10591;
+16705126;Loger A La Madeleine;50.6573;3.07569;H;;;
+16705561;Little Suite - Louise;50.64082;3.06493;H;;;
+16708021;Les Francs Burgers;50.638992;3.070534;R;;10591;
+16717899;Sauge;50.63365;3.06036;R;;10591;
+16721560;Colisée;50.69113;3.16286;A;;;attraction
+16745443;Les Terrasses de Templeuve;50.5261;3.17015;H;;;
+16755291;Un R De Famille;50.67327;3.05438;R;;10591;
+16756076;Parc de la Citadelle;50.64357;3.04108;A;;;attraction
+16765162;Mama Shelter Lille;50.638496;3.071553;H;specialty_inn;;
+16769818;La Croisade;50.76461;3.15604;R;;10591;
+16774476;Mr stan;50.62709;3.06291;A;;;
+16797157;To Go Working Or Shopping;50.6763;3.19686;H;;;
+16800851;Jet Lag;50.646076;3.055402;R;;10591;
+16803943;Carre 138;50.57078;2.80828;H;;;
+16808395;La Grillardiere;50.65505;3.07383;R;;10591;
+16809419;Maison Du Liban;50.78579;3.12705;R;;10591;
+16816376;Monsieur M;50.637074;3.063921;R;;10591;
+16821880;"3 jours sur les champs de bataille de la 1ère guerre australienne au départ d'Ypres ou de Lille";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+16821881;"Circuit de 3 jours Canadiens en 1ère guerre mondiale au départ de Lille ou d'Ypres";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+16826489;Pizza Hut;50.632645;3.092022;R;;10591;
+16826493;Pizza Hut;50.638554;3.022593;R;;10591;
+16826506;Pizza Hut;50.665905;3.103034;R;;10591;
+16826833;"Tart'O Metre";50.66407;3.14583;R;;10591;
+16851143;Asinerie de Saint-Jans-Cappel;50.771;2.71457;A;;;
+16852773;La Squadra;50.689762;3.063675;R;;10591;
+16868306;Chez Mon Cousin;50.638096;3.023467;R;;10591;
+16882726;Waffle Factory Lille;50.63616;3.06374;R;;10591;
+16907657;Appartements Hotel Euralille;50.64008;3.07956;H;;;
+16923045;Lille Grand Palais;50.63145;3.07861;A;;;attraction
+16932473;T3 Renove Tout Confort Proche Metro;50.63222;3.08611;H;;;
+16932913;"Studiolille - Rue D'Anvers";50.62838;3.05455;H;;;
+16966517;Arts Nouveaux;50.62793;3.06783;A;;;
+17146666;Eat and You;50.68801;3.1749;R;;10591;
+17192086;bierbuik Bloemeke;50.639362;3.0581;R;;10591;
+17199120;La Scene;50.53339;3.05424;R;;11776,10591;
+17205899;Le Cordoba;50.61887;3.05115;R;;10591;
+17205935;Le Matignon;50.62826;3.06116;R;;10591;
+17216446;"Aux Folie's Burger";50.78786;3.13399;R;;10591;
+17234086;LA VALLEE DE LA LUNE CREATEUR DE VOYAGES;50.63634;3.06646;A;;;attraction
+17253045;Au Bon Accueil;50.57585;3.08065;R;;10591;
+17326259;Jaldi Jaldi;50.63187;3.05496;R;;10591;
+17327977;Boulangerie Marie Blachere;50.64654;2.7049;R;;10591;
+17328159;Boulangerie Marie Blachere;50.66099;3.03656;R;;10591;
+17328220;Boulangerie Marie Blachere;50.65191;3.12377;R;;10591;
+17328227;Boulangerie Marie Blachere;50.69313;3.20707;R;;10591;
+17328228;Boulangerie Marie Blachere;50.68061;3.13204;R;;10591;
+17328230;Boulangerie Marie Blachere;50.68261;3.13269;R;;10591;
+17338199;O Pito Delicioso;50.71761;3.1592;R;;10591;
+17338738;Prison Island;50.58362;3.095336;A;;;attraction
+17338780;Restaurant du Golf Lille Metropole;50.60953;3.10914;R;;10591;
+17343293;Old Wild West;50.615105;3.124592;R;;10591;
+17382182;REDLIGHT Dsitrict;50.63665;3.05985;A;;;attraction
+17387764;Hotel Ambassadeur;50.63548;3.07051;H;specialty_hotel;;
+17398449;Gateries & Tarteries;50.628906;3.053269;R;;10591;
+17415424;La Capucine Le Bistrot Cantine;50.63787;3.049229;R;;10591;
+17418080;Gite City;50.73061;3.17837;H;;;
+17418112;"After Time's";50.63253;3.05414;R;;10591;
+17431352;Afrikan Korner;50.69205;3.1724;R;;10591;
+17433244;Fleur De Cidre;50.70341;3.091397;R;;10591;
+17455401;Eugène Blond;50.66138;3.01509;A;;;attraction
+17465035;Be Yourself;50.65342;3.12241;R;;10591;
+17468922;La Canopee;50.511692;3.141201;R;;10591;
+17469596;Le Cerisier En Ville;50.64197;3.064297;R;;10591;
+17470269;New West Room;50.64979;3.07647;H;;;
+17470927;Private Rooms in Beautiful Villa;50.64829;3.025239;H;;;
+17476228;Halikarnas Kebab;50.56862;3.21528;R;;10591;
+17484622;Tacos Street;50.626472;3.05678;R;;10591;
+17489676;Django beer;50.64162;3.06568;A;;;
+17501541;Morel J. et Fils;50.63768;3.064;R;;10591;
+17529379;Nachos;50.63661;3.06848;R;;10591;
+17545070;Le Copper;50.591045;2.702331;R;;10591;
+17546796;Achab;50.64014;3.05808;R;;10591;
+17551160;Monsieur Ced;50.6448;2.97889;R;;10591;
+17555971;Le Foch;50.61507;3.01553;R;;10591;
+17560732;La Griotte;50.64193;3.064244;R;;10591;
+17577226;Aparthotel Adagio Lille Centre Grand Place;50.635273;3.06014;H;hotel;;
+17591097;Karaoké Boxes;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+17609224;Le Napoli;50.62435;3.06121;R;;10591;
+17619842;Maison De 1 A 6 Chambres;50.64355;3.10903;H;;;
+17622897;Le Kokâlan Bar;50.63988;3.05794;A;;;attraction
+17635529;"La Ch'Tite Terrasse";50.712807;3.244521;R;;10591;
+17643859;Burger City;50.62257;3.053608;R;;10591;
+17649897;Hinata;50.661125;3.095718;R;;10591;
+17657163;Pizza Rossa;50.70574;3.153051;R;;10591;
+17660133;Izmir Express;50.69211;3.1634;R;;10591;
+17661978;Prima Fila;50.6299;3.0211;R;;10591;
+17663918;So Drive Burger;50.628857;3.052886;R;;10591;
+17668297;Zephyr;50.62665;3.11199;H;;;
+17668995;Lys Sans Frontières;50.6414;2.73536;A;;;
+17669615;Oxalis Et Bergamote;50.64075;3.059153;R;;10591;
+17670892;Beers & Co;50.550045;3.051987;R;;10591;
+17674174;"Superbe Maison De Maitre - Coloc' Grand Confort Barbieux";50.67829;3.17292;H;;;
+17689264;We Are Ara;50.63698;3.065;R;;10591;
+17706210;El Baroque;50.6916;3.17194;R;;10591;
+17708069;Millesime;50.64453;3.05762;R;;10591;
+17727138;Hyuga;50.66697;3.076218;R;;10591;
+17733656;B&O Sandwich;50.69532;3.16449;R;;10591;
+17733830;Britney;50.62709;3.07009;R;;10591;
+17738091;°° Brocante salon de thé Les Champs Vienne °°;50.57642;2.7097;A;;;attraction
+17740592;Le Caroussel;50.72775;2.7508;R;;10591;
+17748084;Oum falafel;50.62791;3.0505;R;;10591;
+17748766;Tendance et Fraicheur restaurant;50.683887;3.230694;R;;10591;
+17751505;restaurant Palestinian;50.69211;3.1769;R;;10591;
+17752876;Tendance Et Fraicheur;50.68394;3.23067;R;;10591;
+17757097;BurgerOnomy;50.6203;3.1461;R;;10591;
+17759400;Chambre Rose;50.69624;3.18691;H;;;
+17759873;Mama Maria;50.64733;3.181316;R;;10591;
+17761753;Best Western Hotel Le Beffroi;50.61521;3.01674;H;hotel;;
+17762738;Marmara;50.71945;3.1557;R;;10591;
+17762786;Pomodoro;50.71713;3.14884;R;;10591;
+17762853;Le Grand Cerf;50.40717;3.27932;R;;10591;
+17768500;Monsieur Dwich;50.67332;3.18624;R;;10591;
+17777566;Tumi;50.63091;3.060433;R;;10591;
+17791541;Beer&Beef Lille;50.63767;3.07248;R;;10591;
+17802342;Monument a Louis Pasteur;50.62797;3.061309;A;;;attraction
+17810612;Food - La Cantine;50.69316;3.16709;R;;10591;
+17810720;Le Boucan;50.63167;3.064657;R;;10591;
+17815902;Le Duplexe;50.69251;3.17804;A;;;
+17826582;Printemps;50.63638;3.06127;A;;;attraction
+17827870;"P'tite Poutine";50.6387;3.060564;R;;10591;
+17829049;Noella Suite Apart Hotel;50.64061;3.06403;H;;;
+17829079;Taj Mahal;50.63219;3.08833;R;;10591;
+17835288;Pizza Pai Faches Thumesnil;50.58463;3.08587;R;;10591;
+17839770;Wicres Village German Military Cemetery;50.57051;2.86787;A;;;attraction
+17839785;Cimetière militaire de Lille-Sud;50.61254;3.0473;A;;;attraction
+17854152;Pad Thai Lille;50.63343;3.04103;R;;10591;
+18085653;la Pescara;50.454662;3.03074;R;;10591;
+18154398;Little Italy;50.63143;3.06452;R;;10591;
+18154434;Old Dirty Biniou;50.62671;3.05693;R;;11776,10591;
+18195909;Y Farm Military Cemetery;50.63896;2.86586;A;;;attraction
+18206265;Le Syrah Luna;50.62528;3.048286;R;;10591;
+18218987;"Falafel's";50.67243;3.20483;R;;10591;
+18313875;The Burger House;50.695045;3.179502;R;;10591;
+18322731;"Vertical'Art Lille";50.617756;3.10186;R;;10591;
+18337776;L’Heritage;50.68601;2.88261;R;;10591;
+18338617;Rue-David Military Cemetery;50.63656;2.85216;A;;;attraction
+18453453;St. Vaast Post Military Cemetery;50.58486;2.74842;A;;;attraction
+18453482;Royal Irish Rifles Graveyard;50.62007;2.79066;A;;;attraction
+18454794;Pizza Zio;50.51107;3.13881;R;;10591;
+18455057;Jardin ecologique de Lille;50.64794;3.05647;A;;;attraction
+18543189;"Fresque 'Avant l'aube'";50.69396;3.15799;A;;;attraction
+18766945;Cita-Parc;50.63817;3.04556;A;;;attraction
+18894140;Au bon terroir;50.6797;3.24813;R;;10591;
+18904604;Le Paradis Indien;50.63256;3.05574;R;;10591;
+18904735;"L'Envol";50.58221;3.110271;R;;10591;
+18919553;LAPI-Musée des abeilles;50.66433;2.66341;A;;;attraction
+18923674;Salad & Co;50.64367;3.14018;R;;10591;
+18930552;Église Saint-Vaast;50.70424;3.09252;A;;;attraction
+18930560;Église Saint-Vaast;50.64499;2.72127;A;;;
+18930570;Église Saint-Amand;50.73449;2.73418;A;;;
+18930571;Église Immaculée-Conception-de-Notre-Dame;50.71338;2.72556;A;;;
+18931757;PizzAtelier;50.63436;3.06388;R;;10591;
+18935919;Burger King;50.667892;3.077323;R;;10591;
+18957843;Salad&Co;50.74125;3.14161;R;;10591;
+18967207;Pokawa Lille;50.636974;3.062472;R;;10591;
+18967222;Raspoutine Social Club;50.77736;2.68144;R;;10591;
+18968679;Église Saint-Martin;50.51001;3.17155;A;;;
+18979937;Eglise Saint-Vaast;50.74065;2.73417;A;;;attraction
+18980684;"Fresque 'Le Peuple René débarque à Saint-Sauveur'";50.627144;3.069837;A;;;attraction
+18980688;"Fresque 'Enlacement'";50.62734;3.10864;A;;;attraction
+19003628;SIMEIS Delice saveurs orientales;50.69026;3.17152;R;;10591;
+19037926;Hashtag;50.62435;3.03826;R;;10591;
+19048917;Le phenix bar Loos;50.61173;3.02276;R;;10591;
+19055965;Les Chtis Anges;50.71005;2.72789;H;;;
+19059990;Friterie Meunier 2;50.63279;3.06241;R;;10591,16556;
+19063222;"L'auberge du Dikke Buuk";50.739906;2.736819;R;;10591;
+19067802;La Base Arriere;50.64527;3.06226;A;;;attraction
+19087694;Place de Bettignies;50.6407;3.06475;A;;;attraction
+19091417;Au Point Central;50.63943;3.06474;R;;10591;
+19091419;Les Artisans;50.61355;3.062838;R;;10591;
+19095302;Far West;50.58573;3.08583;R;;10591,16556;
+19095341;Ya Habibi;50.67364;3.14572;R;;10591;
+19097739;Aux Indes Express;50.63535;3.07016;R;;10591;
+19114971;Aux delices dela cousinerie;50.64072;3.15489;R;;10591;
+19115610;Diane Luxury;50.68431;3.19036;H;;;
+19121059;Les Agapanthes;50.68205;3.10797;H;;;
+19148865;"L'Accord Caviste";50.65446;3.17317;A;;;
+19150041;"L'atelier de la P'tite Zytho";50.793346;2.640912;A;;;
+19175970;"L'Auberge de Mouvaux";50.70217;3.13442;R;;10591;
+19185791;RICHESSES des ANDES;50.62829;3.05191;R;;10591;
+19229033;Aromebase;50.634933;3.063401;R;;10591;
+19229192;Tacos Maison;50.62929;3.1024;R;;10591;
+19258078;"FALUCH'truck";50.62925;3.057256;R;;10591;
+19261263;Quai 45;50.701458;3.160294;R;;10591;
+19268774;Église Saint-Martin de Bailleul;50.74065;2.73417;A;;;
+19272009;Addiction;50.47482;3.24384;R;;10591;
+19275892;Dona Bica;50.64078;3.06372;R;;10591;
+19283545;Bernard et Leon;50.63817;3.06485;R;;10591;
+19283559;Les Exploratrices;50.638824;3.05835;R;;10591;
+19283669;Ititoca;50.67038;3.13102;R;;10591;
+19291677;"Brasserie O'local";50.48056;3.13983;R;;10591;
+19313893;Pizzeria il mondo;50.73645;3.12715;R;;10591;
+19313944;Delicia Do Brasil;50.63203;3.05862;R;;10591;
+19315581;SENSAS Lille;50.63184;3.039913;A;;;attraction
+19315592;MindOut Lille;50.63609;3.06851;A;;;attraction
+19315880;La scapade;50.642418;3.061171;A;;;attraction
+19324965;Amelie;50.66708;3.21078;R;;9901,9909;
+19340100;Paul;50.665016;3.076041;R;;10591;
+19340110;Paul;50.634212;3.055026;R;;10591;
+19340111;Paul;50.649746;3.041883;R;;10591;
+19340117;Paul;50.636387;3.069012;R;;10591;
+19348418;Lille Running Tour 10k;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+19366503;Primark;50.63812;3.0759;A;;;attraction
+19375363;Bellini;50.59017;3.08553;R;;10591;
+19382574;vélotaxi Happymoov;50.6245;3.0543;A;;;
+19391330;PAUL;50.638855;3.062299;R;;10591;
+19391379;PAUL;50.636383;3.068975;R;;10591;
+19404439;Visite touristique en vélotaxi;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+19410922;Petit Konbini;50.69267;3.17017;R;;10591;
+19414078;PAUL;50.61813;3.129013;R;;10591;
+19426030;Les trois singes;50.634563;3.057009;R;;10591;
+19430360;Quick;50.682304;3.215024;R;;10591;
+19431175;Family cafe Brasserie;50.63189;3.06285;R;;10591;
+19434136;Sindibad;50.62447;3.04993;R;;10591;
+19436987;"Restaurant L'epicurieux";50.561672;2.83116;R;;10591;
+19448348;B Green;50.7078;3.08033;R;;10591;
+19460673;Meta VR;50.64262;3.14716;A;;;attraction
+19465042;Le Phoenix;50.63588;3.12269;R;;10591;
+19484911;Le Karl;50.69216;3.173033;R;;10591;
+19489530;Old Wild West;50.65153;2.975975;R;;10591;
+19503838;"Office de Tourisme de Villeneuve d'Ascq";50.63605;3.13384;A;;;attraction
+19503874;O Salle o Mets;50.53618;2.84175;R;;10591;
+19504558;Felicie;50.615116;3.016359;R;;10591;
+19567212;"L'Aéronef";50.63623;3.075937;A;;;
+19600518;Restaurant Cypres;50.61171;3.18994;R;;10591;
+19641182;Kebab Kitchen - La Broche;50.6332;3.0627;R;;10591;
+19647846;411 Avenue Burger;50.64268;3.01626;R;;10591;
+19649022;Freyja Nordic Cafe;50.69174;3.17364;R;;10591;
+19658211;Chez tizote;50.637756;3.02355;R;;10591;
+19694675;Alex taminet;50.57091;2.9344;R;;10591;
+19700042;Danel Appart - Vieux Lille;50.64;3.05686;H;;;
+19725722;Frietkot Company;50.69997;3.1373;R;;10591;
+19731947;Le Spot Restaurant Bar;50.64613;3.055377;R;;10591;
+19769135;Creperie Suzette;50.66201;3.10381;R;;10591;
+19774120;Cafe Le Gambetta;50.71527;3.15847;R;;10591;
+19783812;Produits cosmétiques personnalisés ;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+19788700;La Corderie;50.640785;3.054835;H;;;
+19799085;Friterie Lorginoise;50.56839;2.79104;R;;10591;
+19799934;Restaurant Pizzeria Don Vito;50.55424;3.02828;R;;10591;
+19813141;MumtazGrill;50.61688;3.14155;R;;10591;
+19814342;Tom Coss - Le Magicien Lille;50.63754;3.0672;A;;;
+19816630;Burger King;50.61491;3.121377;R;;10591;
+19816640;Burger King;50.722984;3.127286;R;;10591;
+19816684;Burger King;50.63217;2.968825;R;;10591;
+19816718;Burger King;50.739918;3.136948;R;;10591;
+19816736;Burger King;50.665688;3.029294;R;;10591;
+19820254;Spectacle de Magie digitale et de Mentalisme en physique ou en visioconférence;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+19839183;Quick;50.61294;3.003057;R;;10591;
+19844857;Wtfcafe;50.64415;3.07719;R;;10591;
+19845093;Le Boudoir;50.62623;3.04666;R;;10591;
+19846423;Factory & Co;50.638466;3.075166;R;;10591;
+19869330;Boulangerie Brier;50.638786;3.059288;R;;9901,9909;
+19886516;Place Des Oliviers;50.686134;3.084706;R;;10591;
+19903732;Le Comptoir de Catherine;50.481007;3.142856;R;;10591;
+19923305;"Grillado's";50.63217;3.08792;R;;10591;
+19925830;Le TAVERNAKI;50.62761;3.122117;R;;10591;
+19944816;Fnac;50.63604;3.0648;A;;;attraction
+19945964;Bagel Corner;50.632893;3.062782;R;;10591;
+19946190;Chez juju;50.65784;3.03731;R;;10591;
+19951140;La Moulinette;50.62234;3.062428;R;;10591;
+19955933;Bistrot RG;50.686264;2.882209;R;;10591;
+19981634;Smile Club;50.63203;3.05538;A;;;attraction
+20010692;Quick;50.70561;3.159853;R;;10591;
+20034952;"Federation Francaise de l'Aperitif - Vieux-Lille";50.64039;3.06067;R;;10591;
+20041056;Subway;50.674335;3.145647;R;;10591;
+20041385;Subway;50.520264;2.796091;R;;10591;
+20054687;O Tour du Fromage;50.64444;2.964852;R;;10591;
+20055053;O Baramos;50.78437;3.13167;R;;10591;
+20055100;La Voisinerie de Wazemmes;50.62425;3.05803;R;;10591;
+20059224;Time Cook Burger;50.59663;3.130452;R;;10591;
+20070558;"O'Grill";50.65245;3.12496;R;;10591;
+20074551;Daddy Crepes;50.636024;3.069528;R;;10591;
+20074555;Ercan Kebab;50.73759;3.19021;R;;10591;
+20088476;Fives Thai Coffee;50.6372;3.06416;R;;10591;
+20116482;Le Gourmet;50.70301;3.21872;R;;10591;
+20127968;Le Mange Disque;50.69023;3.17231;R;;10591;
+20141467;Le Barboteur - Restaurant & Bar;50.62952;3.02111;R;;10591;
+20149192;Fleur de Chef;50.63683;3.06235;R;;10591;
+20150897;"Vertical'Art Lille";50.61719;3.10216;A;;;
+20170564;Original Burger Grill;50.63202;3.09358;R;;10591;
+20174531;"Ed'a";50.63248;3.052459;R;;10591;
+20205531;"L'Arti Pizza Seclin";50.54763;3.03103;R;;10591;
+20219597;Memorial Ascq 1944;50.621254;3.16779;A;;;attraction
+20222030;Chez Quynh;50.66715;3.21167;R;;10591;
+20246569;Tradi Pizza;50.663315;3.056336;R;;10591;
+20255928;Chez Thoi;50.632763;3.069876;R;;10591;
+20264670;Maison Du Jardin Botanique;50.72263;3.1688;H;;;
+20277627;Subway;50.60222;3.039653;R;;10591;
+20286090;54 Thai;50.64446;3.057972;R;;10591;
+20286865;Tranquille Emile;50.66177;3.199414;R;;10591;
+20288904;Polbert;50.59158;3.1533;R;;10591;
+20326409;Église Sainte-Marguerite;50.73898;3.01338;A;;;
+20344487;Toscana;50.69278;3.1799;R;;10591;
+20361611;Brique House;50.66905;3.055639;R;;10591;
+20362859;Battlefield Experience;50.73454;2.74227;A;;;attraction
+20365891;Moxy Lille City;50.62806;3.06335;H;hotel;;
+20368895;"Visite privée d'une journée sur la côte française d'Opale avec déjeuner";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+20491356;Eugenieee;50.62533;3.04343;A;;;
+20497009;Les Chaussons De Mamie;50.63017;3.074399;R;;10591;
+20792540;Cigoire;50.6387;3.05932;A;;;attraction
+20831258;Boulangerie Ange Marquette Lez Lille;50.681007;3.065416;R;;10591;
+20835138;Boulangerie Ange Croix;50.67832;3.14028;R;;10591;
+20835230;Boulangerie Ange Lezennes;50.61449;3.10127;R;;10591;
+20835899;Boulangerie Ange Bondues;50.72274;3.12901;R;;10591;
+20863960;QWEST Lille;50.643803;3.146824;A;;;attraction
+20871309;Boulangerie Ange Seclin;50.55004;3.049387;R;;10591;
+20903880;Centrale TaxiLille;50.63494;3.07184;A;;;attraction
+20906497;Boulangerie Ange Neuville En Ferrain;50.74925;3.161739;R;;10591;
+20908398;Syriana Restaurant & Cafe;50.61848;3.07161;R;;10591;
+20912440;Parc de Loisirs et de Nature de Loos;50.6021;3.02194;A;;;attraction
+20924279;Visite de la bière belge en Flandre;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+20940788;"Juste un p'tit bout";50.63737;3.06755;R;;10591;
+20949380;Smokey Banh Mi;50.644623;3.062304;R;;10591;
+20960487;Mechoui Syrien;50.61453;3.05268;R;;10591;
+20989070;Auberge De La Sapiniere;50.78417;2.65882;R;;10591;
+20995738;"Yona L'ile Maurice a vos papilles";50.65337;3.14174;R;;10591;
+20997325;"O'Panini";50.69629;3.1783;R;;10591;
+21010645;Chouga Barrio;50.62545;3.04963;R;;10591;
+21011299;Le Quai;50.635822;3.02896;R;;10591;
+21030193;Aux filles du Cambodge;50.63192;3.05496;R;;10591;
+21033029;Le Cajun;50.703293;3.153596;R;;10591;
+21037613;La Wilderie;50.63751;3.06195;R;;10591;
+21037680;Le T;50.56852;2.93173;R;;10591;
+21043179;Église Notre-Dame-du-Sacré-Cœur;50.68544;2.87433;A;;;
+21045317;Kino Ciné;50.628464;3.126149;A;;;
+21046961;Eglise Saint Philippe;50.66548;3.208;A;;;
+21047008;Fort De Mons;50.6438;3.11841;A;;;
+21047020;Eglise Saint Luc;50.67179;3.21825;A;;;
+21049212;Chateau De Rametz;50.69532;3.037692;A;;;
+21058033;Beer Square;50.6401;3.06163;R;;10591;
+21067750;Monument Aux Combattants Portugais;50.58124;2.71399;A;;;attraction
+21068301;Coffee With Tee-;50.695587;2.641728;R;;9900;
+21071266;"M'eating - Cantine de Quartier";50.635967;3.027022;R;;10591;
+21081298;Ubu;50.63336;3.06813;R;;10591;
+21087618;Calvaire de Neuve-Chapelle;50.58515;2.78151;A;;;attraction
+21089049;les Yogis;50.63079;3.058771;A;;;attraction
+21095700;Do It Yourself;50.627552;3.042028;A;;;attraction
+21095771;Au bistrot des amis;50.720066;2.804226;R;;10591;
+21104099;"Transfert privé: Lille à l'aéroport de Lille (LIL)";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+21125559;Chez Graziella;50.626637;3.114713;R;;10591;
+21148459;Le Terminus;50.68126;2.87593;R;;10591;
+21165447;Aux Moules de Lille;50.63602;3.063245;R;;10591;
+21166487;Eglise Notre-Dame-du-Joyel;50.65207;2.83284;A;;;
+21166498;Eglise Saint-jean-baptiste;50.60755;2.8536;A;;;
+21166512;Eglise Notre-Dame-de-la-Visitation;50.6456;2.98475;A;;;
+21166514;Eglise Saint-maclou;50.60805;2.98609;A;;;
+21166528;Eglise Saint Vaast;50.62869;2.77231;A;;;
+21167827;Église catholique Saint-Martin;50.63524;2.94264;A;;;
+21167830;Eglise Saint Pierre;50.60648;2.79404;A;;;
+21169770;Eglise Saint Laurent;50.62311;2.98715;A;;;
+21170141;Église Catholique Saint-Vaast;50.620537;2.907214;A;;;
+21170922;Chez Brigitte;50.638367;3.058361;R;;10591;
+21171121;"Mo-Vin's Burger + Sushi";50.51395;2.75267;R;;10591;
+21182040;Danya;50.633427;3.090901;R;;10591;
+21182770;La Succulente;50.693474;2.889413;R;;10591;
+21186117;Restaurant Chen;50.61524;3.01739;R;;10591;
+21191805;La Broche Doree;50.69281;3.17995;R;;10591;
+21197011;Chez Jeanne;50.62197;3.145113;H;;;
+21198435;Le 48 73;50.62177;3.07375;R;;10591;
+21198438;Mumtaz Mahal;50.62704;3.0572;R;;10591;
+21198450;AuRefuge;50.63593;3.05944;R;;10591;
+21198464;La Creperie du Sebasto;50.630005;3.057434;R;;10591;
+21205969;"La Clique Appart'Hotel";50.64118;3.0653;H;;;
+21232706;3 Brasseurs Lezennes;50.606846;3.120634;R;;10591;
+21234629;Le Chat Qui Dort - Bords de Deule;50.63627;3.02979;H;;;
+21238962;Esprit Barbecue;50.682243;3.083063;A;;;
+21240315;Visite à pied autoguidée à Lille;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+21251307;Noosa Pizza;50.52803;2.932621;R;;10591;
+21252401;Roule Ma Poule;50.63597;3.02629;R;;10591;
+21252502;Le Take Away;50.52294;2.9363;R;;10591;
+21256697;Mambo Miam Miam;50.63373;3.06148;R;;10591;
+21256711;Dockers;50.632565;3.055818;R;;10591;
+21256719;"Au Burger d'Or";50.63126;3.05893;R;;10591;
+21257840;Le Poulet Braise Maconnais;50.69682;3.203473;R;;10591;
+21259673;Le Marque Page;50.679016;3.109919;R;;10591;
+21269934;HBB Restaurant;50.619205;3.049358;R;;10591;
+21270852;La Maison Du Donut;50.63689;3.06439;R;;10591;
+21270859;Le White Diamond;50.63005;3.05728;A;;;
+21275708;Cafe Lovster;50.63787;3.06473;R;;10591;
+21277256;Chamas Tacos;50.61943;3.066865;R;;10591;
+21278640;La Nieppoise;50.704895;2.840248;H;guest_house;;
+21291503;It Italian;50.63677;3.069401;R;;10591;
+21294019;Pampa Lille;50.6467;3.05723;R;;10591;
+21297890;"Loc'ale";50.62675;3.06964;R;;10591;
+21306938;Namaste Restaurant Lille;50.615746;3.048078;R;;10591;
+21317129;Columbus Cafe & Co Auchan Lille-englos;50.606274;2.986955;R;;10591;
+21324013;Subway;50.612522;3.04628;R;;10591;
+21324735;Saray Express;50.63694;3.0621;R;;10591;
+21325924;La Brasserie Du Goulot;50.67572;3.181607;A;;;
+21330594;Peppino Pizza Estaires;50.643967;2.720521;R;;10591;
+21332753;Hopen;50.63522;2.72153;R;;10591;
+21348487;El Padel Club;50.69012;3.06186;A;;;
+21350004;La Maison Du Burger;50.55906;3.03513;R;;10591;
+21352193;La Face B;50.62364;3.04272;R;;10591;
+21353457;"L'heure du massage";50.64118;3.06171;A;;;
+21357193;"Bio' Appetit";50.61996;3.0683;R;;10591;
+21363655;Galerie Ateliers Les Jartdins de Sabila;50.694313;3.1693;A;;;
+21365544;"Le 30' Bar";50.68077;3.06483;R;;10591;
+21368609;Change De Lille;50.63247;3.06349;A;;;
+21369791;"Pierre Et Léon Sauveurs D'ours Polaires";50.62753;2.771613;A;;;
+21370246;Casa Benfica;50.71106;3.169311;R;;10591;
+21374183;Snack Mounir;50.62254;3.05351;R;;10591;
+21374334;Baab;50.627853;3.080158;R;;10591;
+21380167;ali baba et les 40 saveurs;50.78638;3.12604;R;;10591;
+21380194;Waffle Street;50.63866;3.06037;R;;10591;
+21386497;Gîtes du Frêne;50.59004;3.02512;H;;;
+21388652;Gîtes De La Vesée;50.67427;2.88808;H;;;
+21392536;Escalille La Travia;50.64251;3.06375;H;;;
+21399783;Pizza Hut;50.631474;3.05421;R;;10591;
+21403754;Chatz;50.61169;3.07418;A;;;
+21495231;Église Saint-Pierre-et-Saint-Paul;50.73987;2.6905;A;;;
+21495260;Église Saint-blaise;50.78368;2.69531;A;;;
+21495329;Église Saint-jean-baptiste;50.763756;2.721009;A;;;
+21499781;Lille Appartement Hotel 里尔公寓酒店;50.62528;3.11202;H;;;
+21506705;Emazen Guest House & Spa;50.6247;3.093536;H;;;
+22834665;Kitchenette De Lisette;50.72028;3.17256;R;;10591;
+22839800;Come Prima;50.62949;3.06553;R;;10591;
+22844769;"McDonald's";50.678513;3.224109;R;;10591;
+22905581;Célestin;50.66907;3.055813;A;;;
+22954302;Quick;50.615746;3.048078;R;;10591;
+22954417;"O'Tacos";50.61966;3.050891;R;;10591;
+22998238;Eden Sushi;50.62373;3.054533;R;;10591;
+23002606;Cote Sushi Lille;50.63306;3.06249;R;;10591;
+23006333;WTF Cafe - Lille;50.64415;3.07719;R;;10591;
+23014066;La Maison Missieu;50.639267;3.076363;R;;10591;
+23022471;"Elizabeth's";50.63867;3.060198;R;;10591;
+23031378;Obarbecue;50.70834;3.15791;R;;10591;
+23033057;Fabrik Burger;50.62492;3.05527;R;;10591;
+23035926;"Sushi Minut'";50.62395;3.054735;R;;10591;
+23036042;So Kebab;50.722378;3.157828;R;;10591;
+23039291;Taxis-lille.net;50.61575;3.07437;A;;;
+23041003;Garage Les Restaurants;50.63927;3.06732;R;;10591;
+23063842;Allo Burger & Chicken;50.69361;2.88079;R;;10591;
+23087748;Aux Tiroirs A Cookies;50.64028;3.06522;R;;10591;
+23089276;Basilic & Co Rennes (Clemenceau);50.69876;3.168551;R;;10591;
+23089281;Pizza Estaires;50.647392;2.717491;R;;10591;
+23100176;Eglise Saint Martin;50.527206;3.168608;A;;;
+23106414;"L'essentiel";50.40765;3.28003;R;;10591;
+23108872;Chocolats Merimee;50.611958;2.99009;R;;9909;
+23131339;"Grape Bar Villeneuve-d'ascq";50.62071;3.133191;R;;10591;
+23141990;Taxi Lillenium;50.64372;3.11111;A;;;
+23143915;La Famille - Finest Lunch;50.631954;3.136901;R;;10591;
+23144526;Cry O Spa;50.720264;3.159346;A;;;attraction
+23148645;Out Fry - Korean Fried Chicken;50.63829;3.06518;R;;10591;
+23148658;Bassecour;50.62499;3.06829;R;;10591;
+23148717;Chez Sezame;50.632;3.09317;R;;10591;
+23148718;Mamma Piada;50.64568;3.05605;R;;10591;
+23155479;"Le Rooftop De Ju'";50.52441;3.28244;A;;;attraction
+23159816;"Restaurant L'entre Nous";50.70436;2.83993;R;;10591;
+23174474;Kuriku;50.69725;3.09215;R;;10591;
+23176216;"La Boutik'à";50.63215;3.087151;A;;;
+23192631;La nordiste;50.69188;2.87653;H;;;
+23195707;"L'emulsion Lambersart";50.65184;3.02719;R;;10591;
+23204740;"L'Alchimiste Escape Game Urbain Autoguidé à Lille";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+23210278;Brood;50.62228;3.06239;R;;10591;
+23211345;Coworkcafe;50.595985;3.131325;R;;10591;
+23227571;Le Petit Meunier;50.646698;3.076843;R;;10591;
+23233975;Frites Corner;50.56987;3.05497;R;;10591;
+23241577;"Trott'aventure Lille";50.501667;3.051487;A;;;attraction
+23250953;Visite privée de Lille en 2CV décapotable avec halte champagne;50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+23264335;"Visite privée d'1h30 en 2CV décapotable avec dégustation de produits régionaux";50.636905670166016;3.0654420852661133;AP;;;attractionproduct
+23265207;"O'burger Grill";50.63718;3.06817;R;;10591;
+23274344;Hippoleat;50.6632;3.13381;R;;10591;
+23299474;Choffow;50.62839;3.05565;R;;10591;
+23328605;Street Food;50.644016;3.062606;R;;10591;
+23342917;Hank Burger Vegan;50.636906;3.065442;R;;10591;
+23412080;Daehan;50.630154;3.061555;R;;10591;
+23415617;Bar A Jus;50.618774;3.060977;R;;10591;
